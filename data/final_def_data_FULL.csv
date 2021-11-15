@@ -1,0 +1,1135 @@
+"N","instance_id","label","node_id","total_success","success_rate","label_freq_rank","definition","raw_image_breadth","norm_image_breadth","num_imgs","min_img","max_img","num_adopters","prop_adopters"
+2,400,"space",15245,44,1,1,"Gap",16030,16030,22,996,1393,2,1
+2,400,"space",15414,44,1,1,"A gap within a continuous object",16030,16030,22,996,1393,2,1
+2,400,"wide",15245,16,0.888888889,3,"Lengthy",31482,31482,8,61,685,2,1
+2,400,"wide",15414,16,0.888888889,3,"A shape that spans furthest left to right.",31482,31482,8,61,685,2,1
+2,400,"x",15245,20,0.833333333,2,"Cross",162606,86604,10,31,909,2,1
+2,400,"x",15414,20,0.833333333,2,"Something that has two shapes up and two down.",162606,86604,10,31,909,2,1
+2,401,"anthea",38378,16,1,3,"Its close to ""ant head"" which is what the shape looked like",3452,3452,8,814,970,2,1
+2,401,"anthea",38732,16,1,3,"The shape resembled an ant head.",3452,3452,8,814,970,2,1
+2,401,"crab",38378,16,1,2,"When the object looked like it had two feet and two pincers like a crab",1954,1954,8,541,648,2,1
+2,401,"crab",38732,16,1,2,"The shape looked like a crab",1954,1954,8,541,648,2,1
+2,401,"hover",38378,20,1,1,"Anytime the ball shape was hovering above an object",12575,12575,10,26,362,2,1
+2,401,"hover",38732,20,1,1,"The ball was above the shape, not touching.",12575,12575,10,26,362,2,1
+2,402,"bunny",14147,40,0.869565217,1,"Big floppy ear rabbit",32239,32239,20,820,1381,2,1
+2,402,"bunny",14798,40,0.869565217,1,"Long ears and oval face",32239,32239,20,820,1381,2,1
+2,402,"frog",14147,28,1,2,"Green amphibian that swims",3185,1078,14,647,846,2,1
+2,402,"frog",14798,28,1,2,"Body with four legs",3185,1078,14,647,846,2,1
+2,402,"vase",14147,24,0.923076923,3,"Holds flowers or decorative",2988,2988,12,1009,1185,2,1
+2,402,"vase",14798,24,0.923076923,3,"A woman shaped",2988,2988,12,1009,1185,2,1
+2,403,"bell",38067,18,0.9,2,"It is somewhat narrow and has a little ringer on the bottom",2533,2533,9,1314,1461,2,1
+2,403,"bell",38078,18,0.9,2,"Metal dome shaped object that rings",2533,2533,9,1314,1461,2,1
+2,403,"btrfly",38067,18,1,3,"It has wings spread out and a head",2659,2659,9,186,361,2,1
+2,403,"btrfly",38078,18,1,3,"Symmetrical insect with wings",2659,2659,9,186,361,2,1
+2,403,"spread",38067,20,0.909090909,1,"It looks like arms that are far out.",5598,4610,10,555,770,2,1
+2,403,"spread",38078,20,0.909090909,1,"Items moved apart",5598,4610,10,555,770,2,1
+2,405,"ball",14733,16,1,2,"furniture",323265,21483,8,53,1460,2,1
+2,405,"ball",15006,16,1,2,"Something holding something on top of it.",323265,21483,8,53,1460,2,1
+2,405,"crab",14733,18,1,1,"animal with two angled arms",10585,4784,9,517,850,2,1
+2,405,"crab",15006,18,1,1,"Something wide, with arms.",10585,4784,9,517,850,2,1
+2,405,"rabbit",14733,16,0.888888889,3,"Floppy ears",36136,36136,8,805,1418,2,1
+2,405,"rabbit",15006,16,0.888888889,3,"Something with droopy or floppy ears.",36136,36136,8,805,1418,2,1
+2,406,"book",14221,26,0.866666667,1,"Large",5459,5459,13,133,433,2,1
+2,406,"book",14774,26,0.866666667,1,"A flat v-shape",5459,5459,13,133,433,2,1
+2,406,"happy",14221,16,0.888888889,3,"Enjoy",48379,45359,8,72,791,2,1
+2,406,"happy",14774,16,0.888888889,3,"Two fists in the air",48379,45359,8,72,791,2,1
+2,406,"kiss",14221,20,1,2,"Two lovers",2357,2357,10,995,1168,2,1
+2,406,"kiss",14774,20,1,2,"two heads together",2357,2357,10,995,1168,2,1
+2,407,"blowup",14930,22,1,1,"shape below with ball above",2279,2279,11,1,142,2,1
+2,407,"blowup",14961,22,1,1,"As in putting air into a balloon or tire.",2279,2279,11,1,142,2,1
+2,407,"boxer",14930,18,1,2,"torso with arms and legs, something on hands",6253,2718,9,624,892,2,1
+2,407,"boxer",14961,18,1,2,"Someone who has on gloves and fights",6253,2718,9,624,892,2,1
+2,407,"kickb",14930,16,1,3,"kicking a ball",3755,3755,8,1311,1486,2,1
+2,407,"kickb",14961,16,1,3,"Kickball",3755,3755,8,1311,1486,2,1
+2,409,"crab",38168,20,1,1,"Squatty with big arms",3106,3106,10,488,665,2,1
+2,409,"crab",38205,20,1,1,"seafood with multiple legs",3106,3106,10,488,665,2,1
+2,409,"win",38168,8,1,3,"Arms up high",232,232,4,760,796,2,1
+2,409,"win",38205,8,1,3,"excited",232,232,4,760,796,2,1
+2,409,"woman",38168,10,1,2,"Curvy, full",574,574,5,1015,1084,2,1
+2,409,"woman",38205,10,1,2,"medium to long hair, wider hips",574,574,5,1015,1084,2,1
+24,708,"crab",65166,154,0.916666667,2,"A crustacean with six legs and claws",5588,3541,65,453,844,24,1
+24,708,"crab",65301,154,0.916666667,2,"wide and short stretched out X with a dot on the top",5588,3541,65,453,844,24,1
+24,708,"crab",65238,154,0.916666667,2,"A crab is a crustacean that is small with pincers and small legs.",5588,3541,65,453,844,24,1
+24,708,"crab",64237,154,0.916666667,2,"A wide creature with pincers.",5588,3541,65,453,844,24,1
+24,708,"crab",65456,154,0.916666667,2,"a low lying figure with identifiable head, legs, and arms.",5588,3541,65,453,844,24,1
+24,708,"crab",65039,154,0.916666667,2,"the shape looked like a crab walking",5588,3541,65,453,844,24,1
+24,708,"crab",64249,154,0.916666667,2,"A crustacean with legs and pincers.",5588,3541,65,453,844,24,1
+24,708,"crab",65470,154,0.916666667,2,"A crustaceus creature",5588,3541,65,453,844,24,1
+24,708,"crab",70302,154,0.916666667,2,"A SMALL CLUSTERED CREATURE",5588,3541,65,453,844,24,1
+24,708,"crab",64311,154,0.916666667,2,"crawl arms up",5588,3541,65,453,844,24,1
+24,708,"crab",65595,154,0.916666667,2,"Has two claws.",5588,3541,65,453,844,24,1
+24,708,"crab",70411,154,0.916666667,2,"Claws",5588,3541,65,453,844,24,1
+24,708,"crab",64501,154,0.916666667,2,"A short, relatively flat, wide crustacean with a bunch of limbs.",5588,3541,65,453,844,24,1
+24,708,"crab",65801,154,0.916666667,2,"Two hammer sticks protruding on either end, squatting down.",5588,3541,65,453,844,24,1
+24,708,"crab",71776,154,0.916666667,2,"crawling",5588,3541,65,453,844,24,1
+24,708,"crab",64852,154,0.916666667,2,"wide with short back legs and wider front legs",5588,3541,65,453,844,24,1
+24,708,"crab",65913,154,0.916666667,2,"Something you get if you don't pick your sexual partners carefully. Also an animal that hangs around beaches and that people eat.",5588,3541,65,453,844,24,1
+24,708,"crab",72284,154,0.916666667,2,"crustacean",5588,3541,65,453,844,24,1
+24,708,"crab",68876,154,0.916666667,2,"Low creature",5588,3541,65,453,844,24,1
+24,708,"crab",66215,154,0.916666667,2,"A crustacean species that can live in water and outside of it, which scuttles sideways.",5588,3541,65,453,844,24,1
+24,708,"crab",72311,154,0.916666667,2,"Low to the ground, creeping along with a head",5588,3541,65,453,844,24,1
+24,708,"crab",66326,154,0.916666667,2,"crustacean with multiple legs and pincers",5588,3541,65,453,844,24,1
+24,708,"crab",66229,154,0.916666667,2,"a hard shelled creature with pinchers that walks and lives in/near water",5588,3541,65,453,844,24,1
+24,708,"crab",66503,154,0.916666667,2,"delicious crustacean",5588,3541,65,453,844,24,1
+24,708,"frog",64237,156,0.917647059,1,"A creature that jumps around and has a strange face.",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",68876,156,0.917647059,1,"Amphibious creature. Big v",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",66215,156,0.917647059,1,"An amphibian species that breathes through its skin and lives near/in water",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",64249,156,0.917647059,1,"An amphibian with legs and arms.",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",70302,156,0.917647059,1,"A SMALL CROUCHING CREATURE",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",66229,156,0.917647059,1,"an amphibious creature that hops",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",64311,156,0.917647059,1,"jump frog",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",70411,156,0.917647059,1,"Amphibian",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",66326,156,0.917647059,1,"amphibian with four arms",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",64501,156,0.917647059,1,"A short amphibian with 4 long limbs.",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",71776,156,0.917647059,1,"looks like ready to jump",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",66503,156,0.917647059,1,"a green amphibian known for hopping",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",64852,156,0.917647059,1,"wide with legs all apart",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",72284,156,0.917647059,1,"an amphibian",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65456,156,0.917647059,1,"a figure with identifiable head, legs, and arms",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65039,156,0.917647059,1,"the shape looked like a frog",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",72311,156,0.917647059,1,"Four spread out legs with a body looking like it's jumping",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65470,156,0.917647059,1,"A small hopping animal",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65166,156,0.917647059,1,"An amphibian",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65801,156,0.917647059,1,"A big mouth looking creature.",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65595,156,0.917647059,1,"Has two front feet, two back feet.",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65238,156,0.917647059,1,"A frog is a very small amphibian that has a small body and somewhat long legs.",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65913,156,0.917647059,1,"An amphibious animal.",4208,1513,67,614,937,22,0.916666666666667
+24,708,"frog",65301,156,0.917647059,1,"looks like an non-uniform x , fluid shape",4208,1513,67,614,937,22,0.916666666666667
+24,708,"whale",66229,60,0.909090909,3,"a large mammal that lives in the ocean and swims",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65470,60,0.909090909,3,"A sea animal",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",66326,60,0.909090909,3,"giant fish",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65801,60,0.909090909,3,"Two fins on each side with a blowhole in the middle.",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65595,60,0.909090909,3,"Has a torpedo head and a tail",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",66503,60,0.909090909,3,"a giant water mammal",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65913,60,0.909090909,3,"The average Walmart shopper. Also the world's biggest mammal, and they live in the sea.",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",64237,60,0.909090909,3,"A oval-shaped creature with fins.",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",68876,60,0.909090909,3,"Fat shape",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",66215,60,0.909090909,3,"A mammal species that lives online in large bodies of water (ocean) and is long lived",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",64249,60,0.909090909,3,"A large aquatic mammal.",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",70302,60,0.909090909,3,"IT LOOKS LIKE A WHALE VIEWED FROM A SKYLINE PERSPECTIVE",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65166,60,0.909090909,3,"A large sea mammal",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",64311,60,0.909090909,3,"white slit rounded",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",70411,60,0.909090909,3,"Huge aqua marine mammal",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65238,60,0.909090909,3,"A whale is simply a large mammal with a blowhole and a big fin.",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",64501,60,0.909090909,3,"A huge ocean mammal with a long bulky body and fins.",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",71776,60,0.909090909,3,"wide fish like",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65301,60,0.909090909,3,"oval shape on top, with two side fins and narrowing towards the bottom with white drop shape on top of head",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",64852,60,0.909090909,3,"a blob with a fan on the end",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",72284,60,0.909090909,3,"large mammal swims in ocean",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65456,60,0.909090909,3,"a shape that looks like a big fish and is symmetrical on both sides",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",65039,60,0.909090909,3,"the shape looked like a large whale",1401,1401,27,1051,1173,18,0.75
+24,708,"whale",72311,60,0.909090909,3,"A big fat underwater huge fish-like mammal",1401,1401,27,1051,1173,18,0.75
+24,716,"bunny",65780,86,0.767857143,3,"Rabbit. Hopping animal",44816,44816,41,754,1421,24,1
+24,716,"bunny",68958,86,0.767857143,3,"two feet two long ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",68868,86,0.767857143,3,"Big ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",66228,86,0.767857143,3,"Tall ears on a body shape.",44816,44816,41,754,1421,24,1
+24,716,"bunny",69578,86,0.767857143,3,"a long earred rabbit",44816,44816,41,754,1421,24,1
+24,716,"bunny",66585,86,0.767857143,3,"long ears on the head",44816,44816,41,754,1421,24,1
+24,716,"bunny",66386,86,0.767857143,3,"a bunny has floppy ears and hops to get around",44816,44816,41,754,1421,24,1
+24,716,"bunny",69756,86,0.767857143,3,"rabbit face",44816,44816,41,754,1421,24,1
+24,716,"bunny",66758,86,0.767857143,3,"Big ears and fluffy",44816,44816,41,754,1421,24,1
+24,716,"bunny",64393,86,0.767857143,3,"fluffy",44816,44816,41,754,1421,24,1
+24,716,"bunny",70108,86,0.767857143,3,"Big feet and big ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",65299,86,0.767857143,3,"a small mammal with big ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",64645,86,0.767857143,3,"Tall ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",70786,86,0.767857143,3,"A bunny is a mammal with long ears and powerful hind legs.",44816,44816,41,754,1421,24,1
+24,716,"bunny",65565,86,0.767857143,3,"SMALL RABBIT",44816,44816,41,754,1421,24,1
+24,716,"bunny",64839,86,0.767857143,3,"A small mammal with long ears and a small tail.",44816,44816,41,754,1421,24,1
+24,716,"bunny",72219,86,0.767857143,3,"two ears up",44816,44816,41,754,1421,24,1
+24,716,"bunny",65672,86,0.767857143,3,"A furry little animal with two long ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",65075,86,0.767857143,3,"Bunny is arms and legs spread apart",44816,44816,41,754,1421,24,1
+24,716,"bunny",72254,86,0.767857143,3,"Having two big ears, two long legs, two small arms and a round nose.",44816,44816,41,754,1421,24,1
+24,716,"bunny",65698,86,0.767857143,3,"Tall ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",65203,86,0.767857143,3,"bunny rabbit ears",44816,44816,41,754,1421,24,1
+24,716,"bunny",72342,86,0.767857143,3,"A bunny has big feet and big floppy ears.",44816,44816,41,754,1421,24,1
+24,716,"crab",64393,244,0.853146853,1,"a crab is usually what is found in the ocean",11289,8344,104,144,889,24,1
+24,716,"crab",70108,244,0.853146853,1,"Crouched with pinchers",11289,8344,104,144,889,24,1
+24,716,"crab",68868,244,0.853146853,1,"Claws and crabby looking",11289,8344,104,144,889,24,1
+24,716,"crab",64645,244,0.853146853,1,"A squat animal",11289,8344,104,144,889,24,1
+24,716,"crab",70786,244,0.853146853,1,"A crab is an animal with two eyes on stalks, two claws, and 8 legs",11289,8344,104,144,889,24,1
+24,716,"crab",68958,244,0.853146853,1,"a living object with legs",11289,8344,104,144,889,24,1
+24,716,"crab",64839,244,0.853146853,1,"A small animal that lives on the beaches. It has claws and small legs.",11289,8344,104,144,889,24,1
+24,716,"crab",72219,244,0.853146853,1,"squat shape with legs, claws, and eyes on stalks",11289,8344,104,144,889,24,1
+24,716,"crab",69578,244,0.853146853,1,"a sea critter with pinchers",11289,8344,104,144,889,24,1
+24,716,"crab",65075,244,0.853146853,1,"Crab is a small body connected between arms and legs with the arms raised",11289,8344,104,144,889,24,1
+24,716,"crab",72254,244,0.853146853,1,"Having two big claws that stick up and 6 legs.",11289,8344,104,144,889,24,1
+24,716,"crab",69756,244,0.853146853,1,"shaped like a crab",11289,8344,104,144,889,24,1
+24,716,"crab",65203,244,0.853146853,1,"4 legs",11289,8344,104,144,889,24,1
+24,716,"crab",72342,244,0.853146853,1,"A crab has short legs, a definitive body, and pinchers.",11289,8344,104,144,889,24,1
+24,716,"crab",65780,244,0.853146853,1,"Sea creature",11289,8344,104,144,889,24,1
+24,716,"crab",65299,244,0.853146853,1,"a sea creature",11289,8344,104,144,889,24,1
+24,716,"crab",66386,244,0.853146853,1,"a crab is a small red sea animal with claws",11289,8344,104,144,889,24,1
+24,716,"crab",66228,244,0.853146853,1,"Low with central head, extended claws upward and extended feet/appendages downward.",11289,8344,104,144,889,24,1
+24,716,"crab",65565,244,0.853146853,1,"SEAFOOD THAT IS BLUE OR RED",11289,8344,104,144,889,24,1
+24,716,"crab",66585,244,0.853146853,1,"legs spread out in different directions and head from above",11289,8344,104,144,889,24,1
+24,716,"crab",65698,244,0.853146853,1,"Small squat",11289,8344,104,144,889,24,1
+24,716,"crab",65672,244,0.853146853,1,"A flat, shelled sea creature with legs and it hold up two legs so that it looks like arms and hands",11289,8344,104,144,889,24,1
+24,716,"crab",66758,244,0.853146853,1,"It has claws and a fat body.",11289,8344,104,144,889,24,1
+24,716,"frog",65565,110,0.916666667,2,"AMPHIBIAN THAT IS GREEN",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",65299,110,0.916666667,2,"an amphibian",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",65698,110,0.916666667,2,"Long arms",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",65672,110,0.916666667,2,"A little green creature with four legs that hops",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",64393,110,0.916666667,2,"amphibian",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",65780,110,0.916666667,2,"Amphibious",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",70108,110,0.916666667,2,"Long legs and jumping",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",64645,110,0.916666667,2,"Limbs outstretched",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",66228,110,0.916666667,2,"Low with central head, extended appendages up and down.",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",70786,110,0.916666667,2,"A frog is an amphibian with two strong back legs and smaller arms.",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",64839,110,0.916666667,2,"An animal that is most commonly found near ponds and rivers. Though they can also be found in jungles.",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",66386,110,0.916666667,2,"a frog is amphibian that jumps or hops to get where its going",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",72219,110,0.916666667,2,"a flattened blob with four arms",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",65075,110,0.916666667,2,"Frog is a large surface area towards the bottom",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",66585,110,0.916666667,2,"legs spread apart in different directions, a frog in a jump",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",72254,110,0.916666667,2,"Having two powerful legs, a large torso and two small arms.",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",65203,110,0.916666667,2,"jumping in the air",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",66758,110,0.916666667,2,"Soft small being with broad upper body and narrow bottom portion",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",72342,110,0.916666667,2,"A frog has a good-sized body, hitched legs, and extended arms when it's being dissected.",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",68958,110,0.916666667,2,"a jumping object that may lay flat",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",68868,110,0.916666667,2,"Looks like a jumping frog",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",69756,110,0.916666667,2,"shaped like a frog",5758,2235,52,606,946,22,0.916666666666667
+24,716,"frog",69578,110,0.916666667,2,"a hoppy creature thats fat",5758,2235,52,606,946,22,0.916666666666667
+24,717,"couch",67155,82,0.891304348,3,"Like 'crab' but more flattened. Again, ignoring the ball on top.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",69462,82,0.891304348,3,"Very long and bulky",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",69460,82,0.891304348,3,"A cushioned long chair, for sitting.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",67179,82,0.891304348,3,"A long object one sits upon.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",69494,82,0.891304348,3,"a couh is something wide and long that you sit on.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",68885,82,0.891304348,3,"a furniture that supports sitting",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",68877,82,0.891304348,3,"A place to sit which is wider than tall and accommodates at least 3",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",69517,82,0.891304348,3,"long and flat",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",69450,82,0.891304348,3,"a seat",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",64268,82,0.891304348,3,"Couch is definitely the one for me that seemed to have legs at the bottom. There were two couch like shapes - one was more squared off like rectangle box shaped couch, while the other was more rounded but had a sun or ball in the center like it had three rounded back pieces and also what seemed to be furniture legs near the bottom.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",69811,82,0.891304348,3,"furniture that you sit on with multiple spots to sit",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",65796,82,0.891304348,3,"Wide and square",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",64434,82,0.891304348,3,"piece of furniture you can sit on",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",70261,82,0.891304348,3,"A long shape with two larger shapes on the ends",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",66376,82,0.891304348,3,"A cushioned sofa for sitting.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",64748,82,0.891304348,3,"a long piece of furniture you sit on",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",70354,82,0.891304348,3,"A couch is a soft, comfortable piece of furniture, which several people can sit on at the same time. It usually has cushions.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",66855,82,0.891304348,3,"Couch is a long, somewhat flat object that people sit on.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",64942,82,0.891304348,3,"a place to sit with a base and cushions to lean against",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",71999,82,0.891304348,3,"sit on.",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",66991,82,0.891304348,3,"Tiny legs. Longer shape and comfortable",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",65390,82,0.891304348,3,"is wide",2682,2682,39,297,564,22,0.916666666666667
+24,717,"couch",72135,82,0.891304348,3,"a longer cushioned seating area",2682,2682,39,297,564,22,0.916666666666667
+24,717,"crab",64268,128,0.927536232,1,"Crab is the one I probably referred to as ""goalie"" a lot of the time. It looks like something with limbs extended much like a crab has its pincher claws ready to explore the world.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",69811,128,0.927536232,1,"a sea creature with spiky legs",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",69460,128,0.927536232,1,"A crustacean with big pinchy hands.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",64434,128,0.927536232,1,"Crustacean found in the sea that you can eat.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",70261,128,0.927536232,1,"The animal on the beach",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",69462,128,0.927536232,1,"Two legs and two arms",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",64748,128,0.927536232,1,"many legs and pinchers",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",70354,128,0.927536232,1,"A crab is a crustacean which lives in the sea.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",69494,128,0.927536232,1,"a crab is an animal that is found on the beach and has claws.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",64942,128,0.927536232,1,"a little animal with a rounded body and pinchers",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",71999,128,0.927536232,1,"Animal",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",69517,128,0.927536232,1,"crouching or squatting with pinchers",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",65390,128,0.927536232,1,"Walks on all four",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",72135,128,0.927536232,1,"A crustacean with pincers",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",67155,128,0.927536232,1,"A crab facing the viewer with its claws raised and a ball on it's back that you can just ignore because the rest is so obvious.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",65796,128,0.927536232,1,"Wide and pointy.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",68877,128,0.927536232,1,"A crustacean with a wide body and pincers",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",67179,128,0.927536232,1,"A water creature with wide legs and claws pointed into the air.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",66376,128,0.927536232,1,"A marine arthropod with pincers.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",68885,128,0.927536232,1,"a crustacean with pincers, edible.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",66991,128,0.927536232,1,"Short and squatty with two pincers.",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",66855,128,0.927536232,1,"Crab is a creature from the sea and has many legs.  It is low to the ground and scuttles/shuffles along the surface",8522,5792,54,183,864,23,0.958333333333333
+24,717,"crab",69450,128,0.927536232,1,"An edible animal",8522,5792,54,183,864,23,0.958333333333333
+24,717,"frog",66376,86,0.86,2,"small aquatic amphibian.",4594,1613,40,600,877,18,0.75
+24,717,"frog",65796,86,0.86,2,"Round with four ""limbs""",4594,1613,40,600,877,18,0.75
+24,717,"frog",66991,86,0.86,2,"Skinny legs and arms looks like it's about to jump.",4594,1613,40,600,877,18,0.75
+24,717,"frog",66855,86,0.86,2,"Frog is a four legged amphibian that likes water and to jump around.",4594,1613,40,600,877,18,0.75
+24,717,"frog",64268,86,0.86,2,"Frog is probably what I called ""goalie"" or ""x man"" at times depending on my partner, but it would look like four rounded limbs with a round head.",4594,1613,40,600,877,18,0.75
+24,717,"frog",67155,86,0.86,2,"Very similar to 'bunny' but wider with a more pronounced 'X' shape.",4594,1613,40,600,877,18,0.75
+24,717,"frog",69811,86,0.86,2,"a slimy reptile that eats insects",4594,1613,40,600,877,18,0.75
+24,717,"frog",64434,86,0.86,2,"Amphibian that croaks",4594,1613,40,600,877,18,0.75
+24,717,"frog",67179,86,0.86,2,"Green reptile with turned in front feet.",4594,1613,40,600,877,18,0.75
+24,717,"frog",70261,86,0.86,2,"The shape of the animal frog laying down",4594,1613,40,600,877,18,0.75
+24,717,"frog",64748,86,0.86,2,"animal with webbed feet",4594,1613,40,600,877,18,0.75
+24,717,"frog",68877,86,0.86,2,"An amphibian with bowed legs",4594,1613,40,600,877,18,0.75
+24,717,"frog",70354,86,0.86,2,"A frog is an amphibian, typically green, which in my area, lives in fresh water.",4594,1613,40,600,877,18,0.75
+24,717,"frog",64942,86,0.86,2,"an amphibian with four limbs and lives in the water. Good at jumping",4594,1613,40,600,877,18,0.75
+24,717,"frog",68885,86,0.86,2,"an animal with web feet",4594,1613,40,600,877,18,0.75
+24,717,"frog",71999,86,0.86,2,"Animal jumping",4594,1613,40,600,877,18,0.75
+24,717,"frog",65390,86,0.86,2,"looks green",4594,1613,40,600,877,18,0.75
+24,717,"frog",69450,86,0.86,2,"An amphibian",4594,1613,40,600,877,18,0.75
+24,717,"frog",72135,86,0.86,2,"a short bodied amphibian",4594,1613,40,600,877,18,0.75
+24,717,"frog",69462,86,0.86,2,"short and 4 appendages",4594,1613,40,600,877,18,0.75
+24,717,"frog",69460,86,0.86,2,"A slippery fellow with long legs, and webbed feet.",4594,1613,40,600,877,18,0.75
+24,717,"frog",69517,86,0.86,2,"on all fours",4594,1613,40,600,877,18,0.75
+24,717,"frog",69494,86,0.86,2,"a frog is a insect that has bowed legs and jumps",4594,1613,40,600,877,18,0.75
+24,718,"crab",65597,110,0.873015873,2,"A little sea creature.",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",64857,110,0.873015873,2,"A red snappy animal",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",64419,110,0.873015873,2,"It's also shaped like an X, but flatter and perhaps wider than a frog.",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",65611,110,0.873015873,2,"a small crustacean with claws",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",65282,110,0.873015873,2,"Crab is the scrunched down ""x"".",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",66884,110,0.873015873,2,"fat and 4 appendages",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",66000,110,0.873015873,2,"I'll keep going here with this -- a shelled arachnid that lives in the water.",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",65446,110,0.873015873,2,"Looks like the sun sign for cancer.",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",67260,110,0.873015873,2,"GOOD FOOD",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",66431,110,0.873015873,2,"crustacean",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",65483,110,0.873015873,2,"and sea crustacean with 2 large front claws",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",67305,110,0.873015873,2,"a small animal on the beach",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",66559,110,0.873015873,2,"an animal that lives on the beach",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",69489,110,0.873015873,2,"Squat with raised claws",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",69264,110,0.873015873,2,"a short creature with claws that walks sideways",3768,2556,45,464,811,19,0.791666666666667
+24,718,"crab",66670,110,0.873015873,2,"A crab lives in or near the ocean. It has 2 pinchers on the front of it's body and scuttles around.",3768,2556,45,464,811,19,0.791666666666667
+24,718,"frog",64419,132,0.929577465,1,"It's shaped like an X, but more filled-out.",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",66559,132,0.929577465,1,"An amphibian animal that hops.",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",69264,132,0.929577465,1,"an animal with four legs that jumps",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",64857,132,0.929577465,1,"A green jumping animal",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",66670,132,0.929577465,1,"An amphibian who likes both land and water. It can jump really high and eats bugs with it's long tongue.",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",69489,132,0.929577465,1,"Four limbs jumping",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",65282,132,0.929577465,1,"Frog is the stretched out ""x"".",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",66884,132,0.929577465,1,"fat and 4 appendages",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",66000,132,0.929577465,1,"? -- I guess, an animal, an amphibian. I'm not sure what you're looking for. A hopping small amphibian.",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",65446,132,0.929577465,1,"Looks like a squatting reptile.",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",67260,132,0.929577465,1,"A SLIMY CREATURE",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",66431,132,0.929577465,1,"an amphiban",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",65483,132,0.929577465,1,"an amphibiban with large hind legs used for jumping",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",67305,132,0.929577465,1,"a small animal",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",65611,132,0.929577465,1,"a small amphibian with 4 legs",4152,1494,59,608,841,16,0.666666666666667
+24,718,"frog",65597,132,0.929577465,1,"A small green amphibian.",4152,1494,59,608,841,16,0.666666666666667
+24,718,"rabbit",66670,52,0.928571429,3,"A rabbit is a furry mammal that hops around. It's an herbivore and has long ears.",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",66559,52,0.928571429,3,"A animal that hops everywhere.",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",65282,52,0.928571429,3,"Rabbit had the two ""ear blobs"" on top.",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",66884,52,0.928571429,3,"fat and furry",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",66000,52,0.928571429,3,"A fluffy small rodent, a mammal, that has big ears. (Sorry, I'm not sure what you're asking in these 'what's a x' for animals here.)",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",65446,52,0.928571429,3,"Looks like bunny ears.",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",67260,52,0.928571429,3,"FLUFFY",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",66431,52,0.928571429,3,"mammal with two long ears",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",65483,52,0.928571429,3,"a small mammal with 2 big ears",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",67305,52,0.928571429,3,"a furry mammal",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",64419,52,0.928571429,3,"It's like an X, but it's got two extending arms above that look like long ears.",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",65597,52,0.928571429,3,"A cute little fluffy animal.",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",69264,52,0.928571429,3,"an animal with tall ears that jumps around",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",64857,52,0.928571429,3,"A hopping animal",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",65611,52,0.928571429,3,"a small mammal with large ears",2469,2469,24,860,1054,13,0.541666666666667
+24,718,"rabbit",69489,52,0.928571429,3,"Talk ears",2469,2469,24,860,1054,13,0.541666666666667
+24,727,"ball",72017,76,0.88372093,3,"A bunny is a soft animal that eats carrots and hops",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72519,76,0.88372093,3,"nice animal",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72272,76,0.88372093,3,"Floppy eared animal",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72058,76,0.88372093,3,"had the bunny ears on top",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72550,76,0.88372093,3,"big ears , oval face and legs",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72195,76,0.88372093,3,"two floppy ears",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72117,76,0.88372093,3,"A baby rabbit",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72602,76,0.88372093,3,"A bunny is an animal that hops and has big ears and likes to eat carrots.",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72228,76,0.88372093,3,"Tall ears!",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71658,76,0.88372093,3,"A shape that has two bunny-like ears defined at the top of it",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72618,76,0.88372093,3,"A cute animal that eats carrots and has two upright ears",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71753,76,0.88372093,3,"The shape seems to have big ears, so bunny",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71666,76,0.88372093,3,"Fluffy with big pointing ears",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72662,76,0.88372093,3,"A taller shape with high ears like a bunny",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71774,76,0.88372093,3,"A skinny shape with long and tall ears",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71688,76,0.88372093,3,"fuzzy animal with long ears and cotton ball tail.",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72707,76,0.88372093,3,"young rabbit",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71987,76,0.88372093,3,"floppy ears, little nose, and cute eyes",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71702,76,0.88372093,3,"A rabbit",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72752,76,0.88372093,3,"floppy ears",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72000,76,0.88372093,3,"a land animal",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",71739,76,0.88372093,3,"A rabbit",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"ball",72842,76,0.88372093,3,"a friendly animal sometimes and Easter",266682,22464,37,4,1496,20,0.833333333333333
+24,727,"crab",71774,138,0.92,2,"A short and wide shape with claws on both sides.",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",71753,138,0.92,2,"A shape seems like crab",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72000,138,0.92,2,"a sea animal",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",71987,138,0.92,2,"2 claws up, a few feet on the ground, and wide stance",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",71658,138,0.92,2,"Something that appears to be a crab looking at you with the claws up.",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72017,138,0.92,2,"A crab is a sea creature with claws",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72618,138,0.92,2,"A sea creature that pinches",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",71666,138,0.92,2,"Hard shelled creature with claws",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72058,138,0.92,2,"looked like the shape of a crab",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72662,138,0.92,2,"It looked like it was just out the ocean and the shape of a crab",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",71688,138,0.92,2,"small crustacean with claws and stalk eyes.",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72117,138,0.92,2,"A crustacean",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72707,138,0.92,2,"animal living in the water with several pairs of legs and pinchers for defense",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",71702,138,0.92,2,"A species living in Sea",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72195,138,0.92,2,"short thing with arms up and wide",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72752,138,0.92,2,"wide bent legs",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",71739,138,0.92,2,"A crustacean",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72228,138,0.92,2,"A wide and short creature",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72842,138,0.92,2,"something you could eat",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72519,138,0.92,2,"nasty creature",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72272,138,0.92,2,"Crustacean",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72602,138,0.92,2,"A crab is something that would be considered a sea creature",8918,6657,60,161,889,22,0.916666666666667
+24,727,"crab",72550,138,0.92,2,"x with head low legs",8918,6657,60,161,889,22,0.916666666666667
+24,727,"frog",71658,168,0.903225806,1,"Something that has the appearance of a frog from above.",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72618,168,0.903225806,1,"A amphibious creature that sits on lily pads and eats flies",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72272,168,0.903225806,1,"An amphibian",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",71666,168,0.903225806,1,"An amphibian shaped like a ball with arms and legs",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72662,168,0.903225806,1,"The flatter shape that was similar to a frog",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72519,168,0.903225806,1,"animal jumps",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",71688,168,0.903225806,1,"small green hopping amphibian.",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72707,168,0.903225806,1,"amphibian with long legs for jumping",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72550,168,0.903225806,1,"x with head",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",71702,168,0.903225806,1,"A species living in the land and water.",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72752,168,0.903225806,1,"tall eyes and long legs",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72602,168,0.903225806,1,"A frog is a reptile that lives in the water and on land and has bulgy eyes",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",71739,168,0.903225806,1,"An amphibian animal",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72842,168,0.903225806,1,"im not exactly sure i can define it",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72017,168,0.903225806,1,"A frog is an amphibious creature that hops and make croaking sounds.",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",71753,168,0.903225806,1,"It's a shape which seems a lot like a frog",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72117,168,0.903225806,1,"An amphibious animal",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72058,168,0.903225806,1,"looked like the shape of a frog",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",71774,168,0.903225806,1,"A more compact shape with both arms and feet extended",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72195,168,0.903225806,1,"A short stubby amphibian",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72000,168,0.903225806,1,"an animal",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",71987,168,0.903225806,1,"flat, with a slight stance",5689,2208,72,490,920,22,0.916666666666667
+24,727,"frog",72228,168,0.903225806,1,"An amphibian with four legs.",5689,2208,72,490,920,22,0.916666666666667
+24,728,"bunny",72070,152,0.863636364,2,"Two long ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72066,152,0.863636364,2,"rabbit",42801,42573,68,736,1418,24,1
+24,728,"bunny",72028,152,0.863636364,2,"An animal with two long, or fluffy ears.",42801,42573,68,736,1418,24,1
+24,728,"bunny",72149,152,0.863636364,2,"A fluffy pet with long ears.",42801,42573,68,736,1418,24,1
+24,728,"bunny",72021,152,0.863636364,2,"big ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",71656,152,0.863636364,2,"Two long ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72215,152,0.863636364,2,"A rabbit; an animal with two long ears and a bushy tail",42801,42573,68,736,1418,24,1
+24,728,"bunny",72684,152,0.863636364,2,"A small animal with big ears.",42801,42573,68,736,1418,24,1
+24,728,"bunny",71710,152,0.863636364,2,"an A shape with ears at the top",42801,42573,68,736,1418,24,1
+24,728,"bunny",72264,152,0.863636364,2,"a furry animal with two long ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72755,152,0.863636364,2,"tall ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",71712,152,0.863636364,2,"tall ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72270,152,0.863636364,2,"A bunny has long ears.",42801,42573,68,736,1418,24,1
+24,728,"bunny",72812,152,0.863636364,2,"A small furry animal with long floppy ears and a fuzzy tail",42801,42573,68,736,1418,24,1
+24,728,"bunny",71984,152,0.863636364,2,"Having big upright ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72273,152,0.863636364,2,"it looks like a bunny with the bunny ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72888,152,0.863636364,2,"A fluffy animal with long ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72518,152,0.863636364,2,"A small rabbit: bugs bunny",42801,42573,68,736,1418,24,1
+24,728,"bunny",72312,152,0.863636364,2,"animal",42801,42573,68,736,1418,24,1
+24,728,"bunny",72511,152,0.863636364,2,"tall ears",42801,42573,68,736,1418,24,1
+24,728,"bunny",72507,152,0.863636364,2,"Bunny: with two ears and 4 legs",42801,42573,68,736,1418,24,1
+24,728,"bunny",72499,152,0.863636364,2,"a skinny or wide animal with big ears and a ball tail",42801,42573,68,736,1418,24,1
+24,728,"crab",71656,160,0.91954023,1,"shape X",4655,4605,68,172,756,24,1
+24,728,"crab",72684,160,0.91954023,1,"A wide, short looking animal.",4655,4605,68,172,756,24,1
+24,728,"crab",72499,160,0.91954023,1,"a flat wide animal with short arms and legs",4655,4605,68,172,756,24,1
+24,728,"crab",71710,160,0.91954023,1,"flat with legs and claws",4655,4605,68,172,756,24,1
+24,728,"crab",72755,160,0.91954023,1,"wide with claws",4655,4605,68,172,756,24,1
+24,728,"crab",72507,160,0.91954023,1,"Crab: having head with minimum 4 legs",4655,4605,68,172,756,24,1
+24,728,"crab",71712,160,0.91954023,1,"mr crabs",4655,4605,68,172,756,24,1
+24,728,"crab",72812,160,0.91954023,1,"An animal with a flat body, long spindly legs, and pincer claws",4655,4605,68,172,756,24,1
+24,728,"crab",72511,160,0.91954023,1,"Wide, sharp angles",4655,4605,68,172,756,24,1
+24,728,"crab",71984,160,0.91954023,1,"Having four legs and claws",4655,4605,68,172,756,24,1
+24,728,"crab",72888,160,0.91954023,1,"An animal with pinchers that lives on a beach and is a crustacean",4655,4605,68,172,756,24,1
+24,728,"crab",72518,160,0.91954023,1,"It's a crustacean, a shell fish with pincers",4655,4605,68,172,756,24,1
+24,728,"crab",72021,160,0.91954023,1,"low wide critter with claws",4655,4605,68,172,756,24,1
+24,728,"crab",72312,160,0.91954023,1,"a red sea creature",4655,4605,68,172,756,24,1
+24,728,"crab",72215,160,0.91954023,1,"A shellfish that lives in shallow water",4655,4605,68,172,756,24,1
+24,728,"crab",72028,160,0.91954023,1,"A wide creature with claws facing upwards, and legs downwards.",4655,4605,68,172,756,24,1
+24,728,"crab",72270,160,0.91954023,1,"Crab is an animal with pinchers and a hard shell.",4655,4605,68,172,756,24,1
+24,728,"crab",72264,160,0.91954023,1,"sea creature with two claws",4655,4605,68,172,756,24,1
+24,728,"crab",72066,160,0.91954023,1,"crustacean with pinchers for hands",4655,4605,68,172,756,24,1
+24,728,"crab",72273,160,0.91954023,1,"it looks like a crab because its wide body",4655,4605,68,172,756,24,1
+24,728,"crab",72149,160,0.91954023,1,"A crestation with pinchers",4655,4605,68,172,756,24,1
+24,728,"crab",72070,160,0.91954023,1,"An animal with many legs",4655,4605,68,172,756,24,1
+24,728,"frog",72499,116,0.90625,3,"A wide four legged animal",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72312,116,0.90625,3,"reptile",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72215,116,0.90625,3,"An amphibian that says ""ribbit!""",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72507,116,0.90625,3,"Frog: with 4 legs and big belly",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72270,116,0.90625,3,"A frog is an amphibian and is small and slimy.",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72264,116,0.90625,3,"a reptile",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72511,116,0.90625,3,"short, four legs, fat",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72273,116,0.90625,3,"it looked like a frog that was leaping",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72149,116,0.90625,3,"Slimy jumping animal",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72518,116,0.90625,3,"An amphibian which either croaks or goes by the name Kermit",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72021,116,0.90625,3,"belly with 4 legs",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",71656,116,0.90625,3,"Wide legs and hands",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72684,116,0.90625,3,"An animal with wide legs and short to the ground.",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72028,116,0.90625,3,"An amphibian.",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",71710,116,0.90625,3,"and X with a round body",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72755,116,0.90625,3,"wide with legs",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72066,116,0.90625,3,"green leaping reptile",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",71712,116,0.90625,3,"frogger",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72812,116,0.90625,3,"A small amphibian with slimy skin, large eyes, and large muscular hind legs",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72070,116,0.90625,3,"Squat animal",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",71984,116,0.90625,3,"Having long legs that are equal",5680,1848,53,552,890,22,0.916666666666667
+24,728,"frog",72888,116,0.90625,3,"An amphibian that jumps high",5680,1848,53,552,890,22,0.916666666666667
+6,410,"crab",13495,28,0.875,2,"a red ocean creature with a round body and many legs",12423,7007,14,483,854,6,1
+6,410,"crab",14933,28,0.875,2,"looks lit a crab. Head with four legs",12423,7007,14,483,854,6,1
+6,410,"crab",13947,28,0.875,2,"walking position; squat positions. short arms . small head",12423,7007,14,483,854,6,1
+6,410,"crab",15326,28,0.875,2,"a squat creature with a hard shell and two big claws for hands.",12423,7007,14,483,854,6,1
+6,410,"crab",15211,28,0.875,2,"In the sea, a crustacean.",12423,7007,14,483,854,6,1
+6,410,"crab",15764,28,0.875,2,"A crab is a crustacean that has stalked eyes and two front legs that look like pincers.",12423,7007,14,483,854,6,1
+6,410,"down",15211,26,1,3,"very sad.",3432,3432,12,1294,1496,4,0.666666666666667
+6,410,"down",13947,26,1,3,"everything facing south",3432,3432,12,1294,1496,4,0.666666666666667
+6,410,"down",15326,26,1,3,"below, underneath, the opposite of up.",3432,3432,12,1294,1496,4,0.666666666666667
+6,410,"down",13495,26,1,3,"down would be sad, depressed, unhappy",3432,3432,12,1294,1496,4,0.666666666666667
+6,410,"down",14933,26,1,3,"circle was down",3432,3432,12,1294,1496,4,0.666666666666667
+6,410,"down",15764,26,1,3,"Down means something is toward a lower level or position and is not upward.",3432,3432,12,1294,1496,4,0.666666666666667
+6,410,"frog",13495,34,1,1,"a green water creature with a round body and 4 legs",6571,3005,17,522,832,6,1
+6,410,"frog",15211,34,1,1,"It is an amphibian.",6571,3005,17,522,832,6,1
+6,410,"frog",15764,34,1,1,"A frog is an amphibian with four legs. A frogs' two hind legs are folded when it is sitting, but they straighten out when it jumps and propels itself.",6571,3005,17,522,832,6,1
+6,410,"frog",13947,34,1,1,"two hands up. squat position",6571,3005,17,522,832,6,1
+6,410,"frog",15326,34,1,1,"a small reptile that jumps and eats flies who's hands and feet have suction cups.",6571,3005,17,522,832,6,1
+6,410,"frog",14933,34,1,1,"looks like a frog. Head with four legs",6571,3005,17,522,832,6,1
+6,411,"crab",14787,34,0.894736842,3,"a small creature with two big ears",8874,5313,17,538,837,6,1
+6,411,"crab",14665,34,0.894736842,3,"many legs",8874,5313,17,538,837,6,1
+6,411,"crab",15451,34,0.894736842,3,"short legs, low body, claws",8874,5313,17,538,837,6,1
+6,411,"crab",14188,34,0.894736842,3,"long ears",8874,5313,17,538,837,6,1
+6,411,"crab",14710,34,0.894736842,3,"Two arms more oval body",8874,5313,17,538,837,6,1
+6,411,"crab",15521,34,0.894736842,3,"tall, narrow, funny, cute",8874,5313,17,538,837,6,1
+6,411,"frog",14188,74,1,1,"roundish body with four legs",4397,1944,34,580,892,6,1
+6,411,"frog",14787,74,1,1,"a squat creature with four legs",4397,1944,34,580,892,6,1
+6,411,"frog",15521,74,1,1,"flat, squat, round",4397,1944,34,580,892,6,1
+6,411,"frog",14665,74,1,1,"four legs",4397,1944,34,580,892,6,1
+6,411,"frog",15451,74,1,1,"rounding head and spread out legs",4397,1944,34,580,892,6,1
+6,411,"frog",14710,74,1,1,"Two arm, two leg and curved head",4397,1944,34,580,892,6,1
+6,411,"rabbit",14188,34,0.85,2,"short with long front legs and short back leggs",1490,1490,16,848,977,5,0.833333333333333
+6,411,"rabbit",14710,34,0.85,2,"Two long ears",1490,1490,16,848,977,5,0.833333333333333
+6,411,"rabbit",14665,34,0.85,2,"rabbit ears",1490,1490,16,848,977,5,0.833333333333333
+6,411,"rabbit",15451,34,0.85,2,"tall ears, rounding head",1490,1490,16,848,977,5,0.833333333333333
+6,411,"rabbit",14787,34,0.85,2,"a small round creature with four legs, two of which have big claws",1490,1490,16,848,977,5,0.833333333333333
+6,411,"rabbit",15521,34,0.85,2,"jagged, reaching",1490,1490,16,848,977,5,0.833333333333333
+6,412,"bench",13567,44,0.846153846,1,"A wide Flat surface to sit",4421,4421,21,254,504,6,1
+6,412,"bench",14343,44,0.846153846,1,"a wide, long, flat structure with or without arms",4421,4421,21,254,504,6,1
+6,412,"bench",15333,44,0.846153846,1,"It would be a semi long horizontal shape with legs.",4421,4421,21,254,504,6,1
+6,412,"bench",14026,44,0.846153846,1,"a person sitting",4421,4421,21,254,504,6,1
+6,412,"bench",15024,44,0.846153846,1,"something you can sit on",4421,4421,21,254,504,6,1
+6,412,"bench",14289,44,0.846153846,1,"A person seitting on a long skin wood",4421,4421,21,254,504,6,1
+6,412,"bunny",14343,30,0.833333333,3,"narrow body with long legs and floppy ears",31041,31041,15,830,1316,6,1
+6,412,"bunny",14026,30,0.833333333,3,"long ears raised",31041,31041,15,830,1316,6,1
+6,412,"bunny",15024,30,0.833333333,3,"the tallest slimest item there",31041,31041,15,830,1316,6,1
+6,412,"bunny",13567,30,0.833333333,3,"an Animal with long ears",31041,31041,15,830,1316,6,1
+6,412,"bunny",14289,30,0.833333333,3,"Skinny and reaching to sky",31041,31041,15,830,1316,6,1
+6,412,"bunny",15333,30,0.833333333,3,"A shape that had two upward pointing shapes that were closer together and on the longer side.",31041,31041,15,830,1316,6,1
+6,412,"crab",13567,36,0.947368421,2,"A mini creature with multiple legs.",9062,5143,18,516,841,6,1
+6,412,"crab",14289,36,0.947368421,2,"A animal with 4 legs and a shell",9062,5143,18,516,841,6,1
+6,412,"crab",14026,36,0.947368421,2,"claws raised and small antlers",9062,5143,18,516,841,6,1
+6,412,"crab",15024,36,0.947368421,2,"has it's pinchers up",9062,5143,18,516,841,6,1
+6,412,"crab",14343,36,0.947368421,2,"roundish body with four short legs emerging from it",9062,5143,18,516,841,6,1
+6,412,"crab",15333,36,0.947368421,2,"Longer horizontal shape with upward pointing limbs and more than two lower limbs.",9062,5143,18,516,841,6,1
+6,413,"couch",13513,34,0.894736842,2,"A type of furniture",4048,4048,17,300,557,6,1
+6,413,"couch",14192,34,0.894736842,2,"A lower vee",4048,4048,17,300,557,6,1
+6,413,"couch",15859,34,0.894736842,2,"long like a couch",4048,4048,17,300,557,6,1
+6,413,"couch",14656,34,0.894736842,2,"A low and flat shape with raised sides.",4048,4048,17,300,557,6,1
+6,413,"couch",13534,34,0.894736842,2,"rectangle with suspended circle and ""legs"" on rectangle's lower ends",4048,4048,17,300,557,6,1
+6,413,"couch",15789,34,0.894736842,2,"looked like a couch with a ball or sun over it",4048,4048,17,300,557,6,1
+6,413,"v",14656,24,1,3,"It's the same as 'vee,' namely the shape of the letter V.",4864,4864,12,10,230,6,1
+6,413,"v",15789,24,1,3,"the letter V was apparent",4864,4864,12,10,230,6,1
+6,413,"v",13513,24,1,3,"A letter",4864,4864,12,10,230,6,1
+6,413,"v",14192,24,1,3,"Two lines with a space in the middle",4864,4864,12,10,230,6,1
+6,413,"v",13534,24,1,3,"two planes/lines coming to a sharply angled intersection",4864,4864,12,10,230,6,1
+6,413,"v",15859,24,1,3,"V shaped",4864,4864,12,10,230,6,1
+6,413,"vee",13513,38,0.904761905,1,"A shape similar to the letter 'v'",3869,3869,19,8,228,6,1
+6,413,"vee",14656,38,0.904761905,1,"The shape of the letter V.",3869,3869,19,8,228,6,1
+6,413,"vee",15859,38,0.904761905,1,"it was the shape of a V",3869,3869,19,8,228,6,1
+6,413,"vee",13534,38,0.904761905,1,"two planes/lines coming to a sharply angled intersection",3869,3869,19,8,228,6,1
+6,413,"vee",15789,38,0.904761905,1,"It was the central part of a pictures with legs",3869,3869,19,8,228,6,1
+6,413,"vee",14192,38,0.904761905,1,"Two lines with a space in the middle",3869,3869,19,8,228,6,1
+6,414,"bunny",13769,34,1,3,"Figure with bunny like ears",42095,42095,16,832,1361,5,0.833333333333333
+6,414,"bunny",15317,34,1,3,"animal with two large floppy ears",42095,42095,16,832,1361,5,0.833333333333333
+6,414,"bunny",15316,34,1,3,"2 ears with 2 paws",42095,42095,16,832,1361,5,0.833333333333333
+6,414,"bunny",15138,34,1,3,"rabbit with floppy ears",42095,42095,16,832,1361,5,0.833333333333333
+6,414,"bunny",15726,34,1,3,"Somethng that has ears like arabbit",42095,42095,16,832,1361,5,0.833333333333333
+6,414,"hole",13769,34,0.894736842,2,"Object with a hole in it",9996,9996,16,1017,1331,5,0.833333333333333
+6,414,"hole",15317,34,0.894736842,2,"an open space in an object",9996,9996,16,1017,1331,5,0.833333333333333
+6,414,"hole",15316,34,0.894736842,2,"and area that is empty",9996,9996,16,1017,1331,5,0.833333333333333
+6,414,"hole",15138,34,0.894736842,2,"absence of matter",9996,9996,16,1017,1331,5,0.833333333333333
+6,414,"hole",15726,34,0.894736842,2,"An opening.",9996,9996,16,1017,1331,5,0.833333333333333
+6,414,"lift",13769,46,0.821428571,1,"Figure legs spread with arms in the air",8366,2301,23,599,923,5,0.833333333333333
+6,414,"lift",15317,46,0.821428571,1,"To raise something about your head",8366,2301,23,599,923,5,0.833333333333333
+6,414,"lift",15316,46,0.821428571,1,"pushing something upwards.",8366,2301,23,599,923,5,0.833333333333333
+6,414,"lift",15138,46,0.821428571,1,"To put something above where it was",8366,2301,23,599,923,5,0.833333333333333
+6,414,"lift",15726,46,0.821428571,1,"To pick something up.",8366,2301,23,599,923,5,0.833333333333333
+6,415,"bunny",14847,32,0.888888889,3,"long standing ears",34619,34619,15,861,1358,5,0.833333333333333
+6,415,"bunny",14090,32,0.888888889,3,"A furry animal with two long ears.",34619,34619,15,861,1358,5,0.833333333333333
+6,415,"bunny",15552,32,0.888888889,3,"Small animal with floppy ears.",34619,34619,15,861,1358,5,0.833333333333333
+6,415,"bunny",13909,32,0.888888889,3,"A furry animal that eats carrots",34619,34619,15,861,1358,5,0.833333333333333
+6,415,"bunny",14772,32,0.888888889,3,"bunny ears",34619,34619,15,861,1358,5,0.833333333333333
+6,415,"bunny",15557,32,0.888888889,3,"A shape that looked like a small head with bunny ears",34619,34619,15,861,1358,5,0.833333333333333
+6,415,"crab",13909,76,0.974358974,1,"An animal that lives in the water",5810,4990,35,473,800,6,1
+6,415,"crab",14847,76,0.974358974,1,"two legs and two are arms spread apart, down low, with a head",5810,4990,35,473,800,6,1
+6,415,"crab",15557,76,0.974358974,1,"It looked like a person doing a crab walk",5810,4990,35,473,800,6,1
+6,415,"crab",14090,76,0.974358974,1,"A multi legged sea creature, with claws.",5810,4990,35,473,800,6,1
+6,415,"crab",15552,76,0.974358974,1,"Two legs in the air and two legs on the ground.",5810,4990,35,473,800,6,1
+6,415,"crab",14772,76,0.974358974,1,"several claws",5810,4990,35,473,800,6,1
+6,415,"whale",13909,46,0.958333333,2,"A mammal that lives in the water",2127,2127,22,1041,1220,6,1
+6,415,"whale",14772,46,0.958333333,2,"diamond shaped back",2127,2127,22,1041,1220,6,1
+6,415,"whale",14090,46,0.958333333,2,"A very large sea mammal.",2127,2127,22,1041,1220,6,1
+6,415,"whale",15552,46,0.958333333,2,"Mammal that has the shape of a rocket.",2127,2127,22,1041,1220,6,1
+6,415,"whale",14847,46,0.958333333,2,"fish shaped with a big body and fins",2127,2127,22,1041,1220,6,1
+6,415,"whale",15557,46,0.958333333,2,"A long, mostly purple shape with a spot in the middle and a tail shape",2127,2127,22,1041,1220,6,1
+6,416,"bunny",13488,28,0.823529412,2,"a rabbit",33312,33312,12,815,1335,6,1
+6,416,"bunny",13544,28,0.823529412,2,"Cute little furry animal",33312,33312,12,815,1335,6,1
+6,416,"bunny",13503,28,0.823529412,2,"A narrow shape with two ears",33312,33312,12,815,1335,6,1
+6,416,"bunny",14688,28,0.823529412,2,"Something with big ears.",33312,33312,12,815,1335,6,1
+6,416,"bunny",13676,28,0.823529412,2,"shape that resembles a rabbit, or something that would resemble 2 separate, equal length ""ears""",33312,33312,12,815,1335,6,1
+6,416,"bunny",15661,28,0.823529412,2,"Furry animal with two large, upright ears",33312,33312,12,815,1335,6,1
+6,416,"cheer",13676,26,0.866666667,3,"What best resembles a jumping cheer leader",41451,35445,13,7,828,5,0.833333333333333
+6,416,"cheer",13503,26,0.866666667,3,"A shape with it's arms are thrown up",41451,35445,13,7,828,5,0.833333333333333
+6,416,"cheer",14688,26,0.866666667,3,"Something happy.",41451,35445,13,7,828,5,0.833333333333333
+6,416,"cheer",13488,26,0.866666667,3,"excitement",41451,35445,13,7,828,5,0.833333333333333
+6,416,"cheer",13544,26,0.866666667,3,"Excited about something, and encourage others",41451,35445,13,7,828,5,0.833333333333333
+6,416,"cheer",15661,26,0.866666667,3,"Hands and arms up, excitement, jumping around",41451,35445,13,7,828,5,0.833333333333333
+6,416,"crab",13488,30,0.833333333,1,"a crustacean",3564,3564,15,477,701,6,1
+6,416,"crab",13676,30,0.833333333,1,"Short, elongated, head shape with at least bottom feet but usually pointed up on the top section as well.",3564,3564,15,477,701,6,1
+6,416,"crab",15661,30,0.833333333,1,"Round and short legged animal",3564,3564,15,477,701,6,1
+6,416,"crab",13503,30,0.833333333,1,"A shape that is short with two side claws.",3564,3564,15,477,701,6,1
+6,416,"crab",14688,30,0.833333333,1,"A crouched looking figure.",3564,3564,15,477,701,6,1
+6,416,"crab",13544,30,0.833333333,1,"Feeds off the bottom of the ocean and very good to eat",3564,3564,15,477,701,6,1
+6,417,"bunny",14661,34,0.894736842,3,"A rabbit",3842,3842,17,778,980,6,1
+6,417,"bunny",13690,34,0.894736842,3,"ears sticking up on tall shape",3842,3842,17,778,980,6,1
+6,417,"bunny",15798,34,0.894736842,3,"a baby rabbit",3842,3842,17,778,980,6,1
+6,417,"bunny",13563,34,0.894736842,3,"cute little furry animal",3842,3842,17,778,980,6,1
+6,417,"bunny",14458,34,0.894736842,3,"The animal with long ears",3842,3842,17,778,980,6,1
+6,417,"bunny",15826,34,0.894736842,3,"it looks like a bunny",3842,3842,17,778,980,6,1
+6,417,"crab",13563,54,0.931034483,1,"a cute little shellfish",11523,4846,27,506,905,6,1
+6,417,"crab",14661,54,0.931034483,1,"A crustacean with claw",11523,4846,27,506,905,6,1
+6,417,"crab",15826,54,0.931034483,1,"it shape like a crab",11523,4846,27,506,905,6,1
+6,417,"crab",13690,54,0.931034483,1,"a x with a ball sitting on it",11523,4846,27,506,905,6,1
+6,417,"crab",15798,54,0.931034483,1,"a sea animal with hard shell and claws.",11523,4846,27,506,905,6,1
+6,417,"crab",14458,54,0.931034483,1,"it is a large insect living in the sea",11523,4846,27,506,905,6,1
+6,417,"upsun",13563,36,0.947368421,2,"sun that is high",33536,33536,18,32,706,6,1
+6,417,"upsun",14458,36,0.947368421,2,"The sun is at the highest point",33536,33536,18,32,706,6,1
+6,417,"upsun",13690,36,0.947368421,2,"sun in the air",33536,33536,18,32,706,6,1
+6,417,"upsun",15798,36,0.947368421,2,"a sun facing north",33536,33536,18,32,706,6,1
+6,417,"upsun",14661,36,0.947368421,2,"A sun that is up",33536,33536,18,32,706,6,1
+6,417,"upsun",15826,36,0.947368421,2,"it means the ball/circle is up",33536,33536,18,32,706,6,1
+6,418,"crab",13508,64,0.914285714,1,"Type of sea creatures that walks on sand",3670,3670,31,495,710,6,1
+6,418,"crab",14205,64,0.914285714,1,"low to the ground with pinchers crustacean",3670,3670,31,495,710,6,1
+6,418,"crab",15294,64,0.914285714,1,"crab is a sea creature has multiple legs and two large pincers on the front",3670,3670,31,495,710,6,1
+6,418,"crab",13825,64,0.914285714,1,"Crab has what looks like a bunch of legs and arms stretched out",3670,3670,31,495,710,6,1
+6,418,"crab",14936,64,0.914285714,1,"Crustacean  with claws",3670,3670,31,495,710,6,1
+6,418,"crab",14129,64,0.914285714,1,"Short wide with arms and legs spread apart.",3670,3670,31,495,710,6,1
+6,418,"sumo",14205,22,1,3,"big man squatting",2218,1250,11,615,795,6,1
+6,418,"sumo",13825,22,1,3,"Sumo is an image that looks like it has legs squatting and arms raised",2218,1250,11,615,795,6,1
+6,418,"sumo",14936,22,1,3,"Japanese wrestler",2218,1250,11,615,795,6,1
+6,418,"sumo",13508,22,1,3,"Asian wrestler",2218,1250,11,615,795,6,1
+6,418,"sumo",14129,22,1,3,"Shape with arms spread out towards the sky and legs spread wide.",2218,1250,11,615,795,6,1
+6,418,"sumo",15294,22,1,3,"sumo is a large person that is a wrestler in Japan.",2218,1250,11,615,795,6,1
+6,418,"whale",13508,58,1,2,"Large fish found in the ocean.",5849,5849,25,1031,1291,6,1
+6,418,"whale",14129,58,1,2,"Long round shape with a tail.",5849,5849,25,1031,1291,6,1
+6,418,"whale",13825,58,1,2,"Whale looks like it has a tale and is shaped like a whale",5849,5849,25,1031,1291,6,1
+6,418,"whale",14936,58,1,2,"Ocean dwelling Mammal",5849,5849,25,1031,1291,6,1
+6,418,"whale",14205,58,1,2,"water mammal",5849,5849,25,1031,1291,6,1
+6,418,"whale",15294,58,1,2,"a sea mammal that is large in size and has fins on the front and a large tail",5849,5849,25,1031,1291,6,1
+6,419,"bunny",13604,40,0.952380952,2,"A mammal with big ears",46429,46429,19,795,1380,6,1
+6,419,"bunny",14014,40,0.952380952,2,"a mammal that hops and has long ears.",46429,46429,19,795,1380,6,1
+6,419,"bunny",13919,40,0.952380952,2,"with long ears sticking out",46429,46429,19,795,1380,6,1
+6,419,"bunny",13884,40,0.952380952,2,"Two ears",46429,46429,19,795,1380,6,1
+6,419,"bunny",15430,40,0.952380952,2,"long ears",46429,46429,19,795,1380,6,1
+6,419,"crab",13604,66,0.970588235,1,"A marine animal with a rounded shape and claws in front",8755,5838,31,499,820,6,1
+6,419,"crab",14014,66,0.970588235,1,"a hardshell crustation",8755,5838,31,499,820,6,1
+6,419,"crab",13919,66,0.970588235,1,"A crab with it's arms up in the arm crawling across the sun",8755,5838,31,499,820,6,1
+6,419,"crab",13884,66,0.970588235,1,"Ball with x below",8755,5838,31,499,820,6,1
+6,419,"crab",15430,66,0.970588235,1,"squat shape",8755,5838,31,499,820,6,1
+6,419,"kiss",13604,38,1,3,"The lips of two people meeting",6038,6038,19,992,1264,6,1
+6,419,"kiss",14014,38,1,3,"two people connecting their lips.",6038,6038,19,992,1264,6,1
+6,419,"kiss",13919,38,1,3,"Two heads close to each other",6038,6038,19,992,1264,6,1
+6,419,"kiss",13884,38,1,3,"Shapes facing each other",6038,6038,19,992,1264,6,1
+6,419,"kiss",15430,38,1,3,"headlike shapes meeting",6038,6038,19,992,1264,6,1
+6,420,"bell",13452,36,0.947368421,2,"Scissors blade down with a ball",1872,1872,17,1298,1482,6,1
+6,420,"bell",14520,36,0.947368421,2,NA,1872,1872,17,1298,1482,6,1
+6,420,"bell",13872,36,0.947368421,2,"triangular and circular",1872,1872,17,1298,1482,6,1
+6,420,"bell",15753,36,0.947368421,2,"A shape like a pear",1872,1872,17,1298,1482,6,1
+6,420,"bell",15288,36,0.947368421,2,"Something that looks like a bell shape. Smaller at the top, wide at the bottom.",1872,1872,17,1298,1482,6,1
+6,420,"bell",15881,36,0.947368421,2,"a metal item with a round ball inside.",1872,1872,17,1298,1482,6,1
+6,420,"crab",15288,34,0.85,3,"Looking like a crab, Looking like it has pincers and bent legs.",7016,7016,17,229,624,6,1
+6,420,"crab",13872,34,0.85,3,"sea creature with arms out",7016,7016,17,229,624,6,1
+6,420,"crab",15753,34,0.85,3,"a low crawling sea animal",7016,7016,17,229,624,6,1
+6,420,"crab",13452,34,0.85,3,"Low shape bunched with two ""arms"" on the side and a ball for a head.",7016,7016,17,229,624,6,1
+6,420,"crab",14520,34,0.85,3,"Animal of the sea",7016,7016,17,229,624,6,1
+6,420,"crab",15881,34,0.85,3,"a small animal with claws and short legs.",7016,7016,17,229,624,6,1
+6,420,"squat",13452,38,1,1,"Looked like a person doing squats.",2780,2780,19,491,706,6,1
+6,420,"squat",15288,38,1,1,"Something short, or making themselves short to the ground",2780,2780,19,491,706,6,1
+6,420,"squat",15881,38,1,1,"when someone lowers their body and bows out their legs.",2780,2780,19,491,706,6,1
+6,420,"squat",13872,38,1,1,"halfway between sitting and standing",2780,2780,19,491,706,6,1
+6,420,"squat",15753,38,1,1,"legs spread apart bending down without touching the ground with arms apart",2780,2780,19,491,706,6,1
+6,420,"squat",14520,38,1,1,"Sitting",2780,2780,19,491,706,6,1
+6,421,"ball",14779,32,0.842105263,2,"round",327202,9932,14,2,1495,5,0.833333333333333
+6,421,"ball",15277,32,0.842105263,2,"A round circle object",327202,9932,14,2,1495,5,0.833333333333333
+6,421,"ball",15219,32,0.842105263,2,"Bouncing object",327202,9932,14,2,1495,5,0.833333333333333
+6,421,"ball",15092,32,0.842105263,2,"spherical toy",327202,9932,14,2,1495,5,0.833333333333333
+6,421,"ball",15853,32,0.842105263,2,"circle and on the ground",327202,9932,14,2,1495,5,0.833333333333333
+6,421,"crab",14779,44,0.88,1,"sea animal",6811,3189,21,518,862,5,0.833333333333333
+6,421,"crab",15277,44,0.88,1,"A crawly critter with its legs splayed out",6811,3189,21,518,862,5,0.833333333333333
+6,421,"crab",15219,44,0.88,1,"Water animalbo",6811,3189,21,518,862,5,0.833333333333333
+6,421,"crab",15092,44,0.88,1,"hard shell, scuttles sideways",6811,3189,21,518,862,5,0.833333333333333
+6,421,"crab",15853,44,0.88,1,"big arms and wide body",6811,3189,21,518,862,5,0.833333333333333
+6,421,"keyhol",14779,28,1,3,"shape",8793,8793,14,1069,1349,5,0.833333333333333
+6,421,"keyhol",15277,28,1,3,"The small open space in a door",8793,8793,14,1069,1349,5,0.833333333333333
+6,421,"keyhol",15219,28,1,3,"Hole in keyshape",8793,8793,14,1069,1349,5,0.833333333333333
+6,421,"keyhol",15092,28,1,3,"something that a key would go into",8793,8793,14,1069,1349,5,0.833333333333333
+6,421,"keyhol",15853,28,1,3,"a place to put a key",8793,8793,14,1069,1349,5,0.833333333333333
+6,422,"a",14533,28,1,3,"Shape in the form of an A.",3163,3163,14,1284,1493,6,1
+6,422,"a",14049,28,1,3,"Capital letter A",3163,3163,14,1284,1493,6,1
+6,422,"a",15177,28,1,3,"The object looked like the letter ""A"". Usually meant that you had some scissors that were facing downwards over a circle object.",3163,3163,14,1284,1493,6,1
+6,422,"a",13473,28,1,3,"the letter A",3163,3163,14,1284,1493,6,1
+6,422,"a",14176,28,1,3,"the symbol most looked like the letter A",3163,3163,14,1284,1493,6,1
+6,422,"a",15884,28,1,3,"the shape of letter a with a point at the top and a dot in the middle with 2 lines down at an angle",3163,3163,14,1284,1493,6,1
+6,422,"crab",13473,34,1,1,"a small animal with claws",2041,2041,17,476,690,6,1
+6,422,"crab",14533,34,1,1,"Crustacean with two pincers.",2041,2041,17,476,690,6,1
+6,422,"crab",15884,34,1,1,"A dot at the top with claws on each side, and legs",2041,2041,17,476,690,6,1
+6,422,"crab",14049,34,1,1,"flat, symmetrical",2041,2041,17,476,690,6,1
+6,422,"crab",15177,34,1,1,"A short and wide object with three circle looking shapes connected at the top with various appendages coming out from the bottom.",2041,2041,17,476,690,6,1
+6,422,"crab",14176,34,1,1,"there was a dot at the top for the head and the arms and legs",2041,2041,17,476,690,6,1
+6,422,"topdot",13473,30,1,2,"a dot at the top",10865,10865,13,18,326,6,1
+6,422,"topdot",14176,30,1,2,"The dot was at the top of the symbol",10865,10865,13,18,326,6,1
+6,422,"topdot",14049,30,1,2,"circle at the top of the shape",10865,10865,13,18,326,6,1
+6,422,"topdot",15177,30,1,2,"The dot was at the top of the object (higher than the others).",10865,10865,13,18,326,6,1
+6,422,"topdot",14533,30,1,2,"Circle on the top of the shape.",10865,10865,13,18,326,6,1
+6,422,"topdot",15884,30,1,2,"with the dot being at the top instead of between something or at the bottom",10865,10865,13,18,326,6,1
+6,434,"crab",14031,70,0.945945946,1,"round body animal with multiple apendages",6289,3832,35,474,862,6,1
+6,434,"crab",14801,70,0.945945946,1,"a flat creature with claws.",6289,3832,35,474,862,6,1
+6,434,"crab",15688,70,0.945945946,1,"Land/water animal with hard legs",6289,3832,35,474,862,6,1
+6,434,"crab",14248,70,0.945945946,1,"Short, outstretched arns",6289,3832,35,474,862,6,1
+6,434,"crab",14820,70,0.945945946,1,"animal with claws",6289,3832,35,474,862,6,1
+6,434,"crab",14564,70,0.945945946,1,"a blow with two arms",6289,3832,35,474,862,6,1
+6,434,"float",14801,24,0.923076923,3,"Something that hangs in the air.",21415,21415,12,24,440,5,0.833333333333333
+6,434,"float",14248,24,0.923076923,3,"Head floating above body",21415,21415,12,24,440,5,0.833333333333333
+6,434,"float",14820,24,0.923076923,3,"something hovering over",21415,21415,12,24,440,5,0.833333333333333
+6,434,"float",14031,24,0.923076923,3,"suspended in the air",21415,21415,12,24,440,5,0.833333333333333
+6,434,"float",14564,24,0.923076923,3,"a ball floating",21415,21415,12,24,440,5,0.833333333333333
+6,434,"float",15688,24,0.923076923,3,"Being on the air",21415,21415,12,24,440,5,0.833333333333333
+6,434,"frog",14031,36,1,2,"animal with four limbs and oval body",3492,1046,18,640,832,6,1
+6,434,"frog",14564,36,1,2,"looked like a frog jumping",3492,1046,18,640,832,6,1
+6,434,"frog",14248,36,1,2,"Similar to crab, but smoother",3492,1046,18,640,832,6,1
+6,434,"frog",14820,36,1,2,"animal with long legs",3492,1046,18,640,832,6,1
+6,434,"frog",14801,36,1,2,"Mammal with four legs, front two are a different length than back two.",3492,1046,18,640,832,6,1
+6,434,"frog",15688,36,1,2,"Animal",3492,1046,18,640,832,6,1
+6,435,"ball",14412,34,0.80952381,2,"circle",216733,18180,17,43,1444,6,1
+6,435,"ball",15463,34,0.80952381,2,"a three dimensional circle",216733,18180,17,43,1444,6,1
+6,435,"ball",14926,34,0.80952381,2,"A round circle.",216733,18180,17,43,1444,6,1
+6,435,"ball",14702,34,0.80952381,2,"round bouncy thing",216733,18180,17,43,1444,6,1
+6,435,"ball",15595,34,0.80952381,2,"round",216733,18180,17,43,1444,6,1
+6,435,"frog",14412,46,0.884615385,1,"a smashed frog",6161,1653,23,593,870,6,1
+6,435,"frog",15463,46,0.884615385,1,"an animal with webbed hands and feet that is an amphibian and greenish to brown in color",6161,1653,23,593,870,6,1
+6,435,"frog",14926,46,0.884615385,1,"A shape that has two arms and legs and a rounded looking mid section.",6161,1653,23,593,870,6,1
+6,435,"frog",14702,46,0.884615385,1,"leaping amphibian",6161,1653,23,593,870,6,1
+6,435,"frog",15595,46,0.884615385,1,"shape",6161,1653,23,593,870,6,1
+6,435,"totem",14412,18,0.75,3,"shapes piled on top of each other",3071,3071,9,1197,1385,5,0.833333333333333
+6,435,"totem",15463,18,0.75,3,"a statue made to look like some human caricature",3071,3071,9,1197,1385,5,0.833333333333333
+6,435,"totem",14926,18,0.75,3,"A shape that's like a pole",3071,3071,9,1197,1385,5,0.833333333333333
+6,435,"totem",14702,18,0.75,3,"scared object",3071,3071,9,1197,1385,5,0.833333333333333
+6,435,"totem",15595,18,0.75,3,"I do not know",3071,3071,9,1197,1385,5,0.833333333333333
+6,436,"crab",13972,50,0.925925926,1,"A shell with a couple of pincher",21104,21104,24,125,709,6,1
+6,436,"crab",14946,50,0.925925926,1,"'crab' as in the crab pose, or an actual crab - face-forward with arms up and legs spread apart in a crouching position",21104,21104,24,125,709,6,1
+6,436,"crab",15751,50,0.925925926,1,"animal",21104,21104,24,125,709,6,1
+6,436,"crab",14447,50,0.925925926,1,"crab is legs wide with claws",21104,21104,24,125,709,6,1
+6,436,"crab",15085,50,0.925925926,1,"Head, smallish claws and legs. It was kind of squat and close to the 'ground' compared to some of the other shapes.",21104,21104,24,125,709,6,1
+6,436,"crab",14476,50,0.925925926,1,"A crustacean that has big hands.",21104,21104,24,125,709,6,1
+6,436,"read",13972,36,0.857142857,2,"Open book",13226,13226,18,135,496,6,1
+6,436,"read",14476,36,0.857142857,2,"Someone who is holding a book.",13226,13226,18,135,496,6,1
+6,436,"read",14447,36,0.857142857,2,"read is books shaped like an outwards v with someone reading",13226,13226,18,135,496,6,1
+6,436,"read",15085,36,0.857142857,2,"A circular head, plus something that looked like a smooshed ""V"", which represented the book.",13226,13226,18,135,496,6,1
+6,436,"read",14946,36,0.857142857,2,"'read' as in the present-tense verb, physically it would look like a person with an open book in front of them.",13226,13226,18,135,496,6,1
+6,436,"read",15751,36,0.857142857,2,"book",13226,13226,18,135,496,6,1
+6,436,"whale",14946,32,1,3,"I didn't use the word 'whale' -- that was somebody else.  In all honesty, I didn't see how any of the shapes could really resemble a whale.  I thought whales were big and long, and I guess the one shape looked like that in an aerial view...but I truly was just guessing when I got that one correct.",2695,2695,15,1054,1254,6,1
+6,436,"whale",14447,32,1,3,"whale is a horizontal shape that is almost linear",2695,2695,15,1054,1254,6,1
+6,436,"whale",15085,32,1,3,"Long-ish. Two long-ish, almost straight up and down shapes that were close enough together to touch (separate from the kissing/dancing-type shapes).",2695,2695,15,1054,1254,6,1
+6,436,"whale",13972,32,1,3,"Long with a white spot",2695,2695,15,1054,1254,6,1
+6,436,"whale",14476,32,1,3,"A large animal in the sea.",2695,2695,15,1054,1254,6,1
+6,436,"whale",15751,32,1,3,"animal",2695,2695,15,1054,1254,6,1
+6,437,"crab",13863,22,0.647058824,3,"A clawed hard shell crustacean",11010,11010,11,271,645,5,0.833333333333333
+6,437,"crab",15572,22,0.647058824,3,"A shape that looks like a person crouching down really low to the ground.",11010,11010,11,271,645,5,0.833333333333333
+6,437,"crab",15209,22,0.647058824,3,"squatting with legs open",11010,11010,11,271,645,5,0.833333333333333
+6,437,"crab",14876,22,0.647058824,3,"low shell shape",11010,11010,11,271,645,5,0.833333333333333
+6,437,"crab",15770,22,0.647058824,3,"short squatty with a head in the middle",11010,11010,11,271,645,5,0.833333333333333
+6,437,"hug",13863,24,0.857142857,2,"To embrace another person",28093,28093,12,863,1408,5,0.833333333333333
+6,437,"hug",15572,24,0.857142857,2,"A shape that looks like two people facing eachother.",28093,28093,12,863,1408,5,0.833333333333333
+6,437,"hug",15209,24,0.857142857,2,"two people close to each other",28093,28093,12,863,1408,5,0.833333333333333
+6,437,"hug",14876,24,0.857142857,2,"intertwined shape",28093,28093,12,863,1408,5,0.833333333333333
+6,437,"hug",15770,24,0.857142857,2,"dot in the middle with 2 heads",28093,28093,12,863,1408,5,0.833333333333333
+6,437,"rabbit",13863,30,0.75,1,"Cute cuddly animal with big ears",39069,39069,15,886,1430,5,0.833333333333333
+6,437,"rabbit",15572,30,0.75,1,"A shape with rabbit ears. At the top should be long roundish ears.",39069,39069,15,886,1430,5,0.833333333333333
+6,437,"rabbit",15209,30,0.75,1,"long ears",39069,39069,15,886,1430,5,0.833333333333333
+6,437,"rabbit",14876,30,0.75,1,"long ears above body and long legs",39069,39069,15,886,1430,5,0.833333333333333
+6,437,"rabbit",15770,30,0.75,1,"having large ears",39069,39069,15,886,1430,5,0.833333333333333
+6,438,"crab",13481,40,0.833333333,2,"short stubby legs and a head",7292,3383,20,494,826,6,1
+6,438,"crab",14971,40,0.833333333,2,"Pincers, low",7292,3383,20,494,826,6,1
+6,438,"crab",14806,40,0.833333333,2,"looking like a crab with claws up",7292,3383,20,494,826,6,1
+6,438,"crab",13531,40,0.833333333,2,"Marine creature with pinchers that it can raise up.",7292,3383,20,494,826,6,1
+6,438,"crab",15805,40,0.833333333,2,"clawed land and sea dweller",7292,3383,20,494,826,6,1
+6,438,"frog",13481,58,0.935483871,1,"head attached long legs and arms",5832,2440,27,554,844,6,1
+6,438,"frog",14971,58,0.935483871,1,"Crouchy, bendy, stout",5832,2440,27,554,844,6,1
+6,438,"frog",14806,58,0.935483871,1,"shaped like a frog jumping",5832,2440,27,554,844,6,1
+6,438,"frog",13531,58,0.935483871,1,"Amphibian creature with four legs, likes to jump and be in water.",5832,2440,27,554,844,6,1
+6,438,"frog",15805,58,0.935483871,1,"four-legged amphibian",5832,2440,27,554,844,6,1
+6,438,"sofa",13481,28,0.875,3,"long with arms",2748,2748,14,383,562,6,1
+6,438,"sofa",14971,28,0.875,3,"Wide legs",2748,2748,14,383,562,6,1
+6,438,"sofa",14806,28,0.875,3,"looks like a couch",2748,2748,14,383,562,6,1
+6,438,"sofa",13531,28,0.875,3,"A large, plush piece of furniture that multiple people can sit on.",2748,2748,14,383,562,6,1
+6,438,"sofa",15805,28,0.875,3,"couch to sit on",2748,2748,14,383,562,6,1
+8,392,"bell",38019,44,0.814814815,1,"An animal",4421,4421,22,1240,1455,7,0.875
+8,392,"bell",46079,24,1,3,"Low, central body with two pincers.",4421,4421,22,1240,1455,7,0.875
+8,392,"bell",46990,44,0.814814815,2,"metal",4421,4421,22,1240,1455,7,0.875
+8,392,"bell",38761,44,0.814814815,1,"sitting",4421,4421,22,1240,1455,7,0.875
+8,392,"bell",46420,44,0.814814815,2,"A bell is a musical device that causes a gonging-note to sound when a ball hits the outer walls. Shape-wise, it is a circle underneath a triangular shape.",4421,4421,22,1240,1455,7,0.875
+8,392,"bell",42840,44,0.814814815,2,"small Christmas or hand ringer",4421,4421,22,1240,1455,7,0.875
+8,392,"bell",42804,44,0.814814815,2,"Something that makes a loud noise",4421,4421,22,1240,1455,7,0.875
+8,392,"crab",46079,44,0.814814815,2,"Half circle with a closed bottom.",2160,2160,12,521,681,6,0.75
+8,392,"crab",42840,24,1,3,"two claws",2160,2160,12,521,681,6,0.75
+8,392,"crab",42804,24,1,3,"A crustacean with long legs.",2160,2160,12,521,681,6,0.75
+8,392,"crab",46420,24,1,3,"4 ""legs"", kind of squat, with a hint of ""claws"" on the top legs.",2160,2160,12,521,681,6,0.75
+8,392,"crab",38761,24,1,3,"stretch",2160,2160,12,521,681,6,0.75
+8,392,"crab",38019,24,1,3,"A crustacean",2160,2160,12,521,681,6,0.75
+8,392,"crab",46990,24,1,3,NA,2160,2160,12,521,681,6,0.75
+8,392,"frog",46990,44,0.814814815,1,"amphibian",2177,1087,22,616,821,7,0.875
+8,392,"frog",38761,44,0.814814815,2,"wide",2177,1087,22,616,821,7,0.875
+8,392,"frog",42840,44,0.814814815,1,"4 arms jumping out",2177,1087,22,616,821,7,0.875
+8,392,"frog",46420,44,0.814814815,1,"A frog is an amphibian that jumps in and out of water. Shape-wise, it had four ""legs"" that were slightly bent and a head in the middle.",2177,1087,22,616,821,7,0.875
+8,392,"frog",42804,44,0.814814815,1,"An amphibious animal with long webbed feet.",2177,1087,22,616,821,7,0.875
+8,392,"frog",46079,44,0.814814815,1,"Amphibian with four legs.",2177,1087,22,616,821,7,0.875
+8,392,"frog",38019,44,0.814814815,2,"An item hollowed that makes noise",2177,1087,22,616,821,7,0.875
+8,393,"couch",37995,84,1,1,"If it looks like something flat and long you can ""sit"" on, it resembled a couch.",4760,4760,37,209,533,8,1
+8,393,"couch",46909,84,1,1,"a place where to sit",4760,4760,37,209,533,8,1
+8,393,"couch",46897,84,1,1,"it's a long shape and is near the ground",4760,4760,37,209,533,8,1
+8,393,"couch",38339,84,1,1,"long flat furniture with cushions",4760,4760,37,209,533,8,1
+8,393,"couch",46923,84,1,1,"a place to sit",4760,4760,37,209,533,8,1
+8,393,"couch",42838,84,1,1,"lounging furniture",4760,4760,37,209,533,8,1
+8,393,"couch",42833,84,1,1,"a thing people sit on that is wider than a chair and has cushions",4760,4760,37,209,533,8,1
+8,393,"couch",46128,84,1,1,"long and flat",4760,4760,37,209,533,8,1
+8,393,"frog",42833,64,0.96969697,2,"an amphibious creature that hops and croaks",5035,2416,32,584,838,8,1
+8,393,"frog",37995,64,0.96969697,2,"It was just in the shape of something frog-like.",5035,2416,32,584,838,8,1
+8,393,"frog",42838,64,0.96969697,2,"hopping reptile",5035,2416,32,584,838,8,1
+8,393,"frog",46909,64,0.96969697,2,"an animal with long lower legs and round eyes",5035,2416,32,584,838,8,1
+8,393,"frog",38339,64,0.96969697,2,"A Small reptile with two big eyes",5035,2416,32,584,838,8,1
+8,393,"frog",46128,64,0.96969697,2,"X shape",5035,2416,32,584,838,8,1
+8,393,"frog",46923,64,0.96969697,2,"an animal",5035,2416,32,584,838,8,1
+8,393,"frog",46897,64,0.96969697,2,"the legs are spread out and the head is rather big",5035,2416,32,584,838,8,1
+8,393,"x",42838,50,0.694444444,3,"letter of alphabet",60272,37385,25,51,1374,8,1
+8,393,"x",46897,50,0.694444444,3,"The legs are spread out about an equal amount as the hands. There is not too much in the middle.",60272,37385,25,51,1374,8,1
+8,393,"x",46128,50,0.694444444,3,"X",60272,37385,25,51,1374,8,1
+8,393,"x",37995,50,0.694444444,3,"The shape made an ""x"" shape, literally. So I went with that.",60272,37385,25,51,1374,8,1
+8,393,"x",46909,50,0.694444444,3,"two element that cross each other",60272,37385,25,51,1374,8,1
+8,393,"x",42833,50,0.694444444,3,"a cross shape and 24th letter of the english alphabet",60272,37385,25,51,1374,8,1
+8,393,"x",38339,50,0.694444444,3,"A sideways cross",60272,37385,25,51,1374,8,1
+8,393,"x",46923,50,0.694444444,3,"a letter",60272,37385,25,51,1374,8,1
+8,394,"crab",38765,38,0.95,3,"an animal of the ocean with a hard exoskeleton",3038,3038,18,506,696,8,1
+8,394,"crab",42824,38,0.95,3,"A crab is a crustacean that has a hard shell and claws in front of its body.",3038,3038,18,506,696,8,1
+8,394,"crab",42797,38,0.95,3,"round with rounded legs sticking out",3038,3038,18,506,696,8,1
+8,394,"crab",38062,38,0.95,3,"similar to frog",3038,3038,18,506,696,8,1
+8,394,"crab",46369,38,0.95,3,"It kind of looks like a crab with its claws up.",3038,3038,18,506,696,8,1
+8,394,"crab",38277,38,0.95,3,"Hunched over shape",3038,3038,18,506,696,8,1
+8,394,"crab",38173,38,0.95,3,"Looks like a teepee with a ball in the center touching both sides.",3038,3038,18,506,696,8,1
+8,394,"crab",46661,38,0.95,3,"low to ground with arms up",3038,3038,18,506,696,8,1
+8,394,"flat",38277,44,0.916666667,2,"Thin as possible",5926,5926,20,229,502,8,1
+8,394,"flat",38062,44,0.916666667,2,"linear, long,",5926,5926,20,229,502,8,1
+8,394,"flat",38765,44,0.916666667,2,"something with no height",5926,5926,20,229,502,8,1
+8,394,"flat",46369,44,0.916666667,2,"The closest to a horizontal line.",5926,5926,20,229,502,8,1
+8,394,"flat",38173,44,0.916666667,2,"Not fat",5926,5926,20,229,502,8,1
+8,394,"flat",42797,44,0.916666667,2,"one dimensional with nothing sticking out",5926,5926,20,229,502,8,1
+8,394,"flat",46661,44,0.916666667,2,"most horizontal",5926,5926,20,229,502,8,1
+8,394,"flat",42824,44,0.916666667,2,"Flat is something that is straight and doesn't have much curvature to it.",5926,5926,20,229,502,8,1
+8,394,"frog",38062,78,0.886363636,1,"small amphibian creature",5354,1567,35,607,871,8,1
+8,394,"frog",46369,78,0.886363636,1,"It was spread out and kind of looked like a frog that was about to be dissected or something.",5354,1567,35,607,871,8,1
+8,394,"frog",42824,78,0.886363636,1,"A frog is an animal that has a bulbous body and outstretched legs with shorter arms.",5354,1567,35,607,871,8,1
+8,394,"frog",38173,78,0.886363636,1,"splayed out figure with two legs up and two legs down",5354,1567,35,607,871,8,1
+8,394,"frog",46661,78,0.886363636,1,"taller, ""arms"" up",5354,1567,35,607,871,8,1
+8,394,"frog",38765,78,0.886363636,1,"An animal that is green and crouches",5354,1567,35,607,871,8,1
+8,394,"frog",38277,78,0.886363636,1,"Unsure",5354,1567,35,607,871,8,1
+8,394,"frog",42797,78,0.886363636,1,"four legs sticking out",5354,1567,35,607,871,8,1
+8,395,"bed",46455,24,0.923076923,3,"flattened with upturned edges",1506,1506,12,378,506,6,0.75
+8,395,"bed",46394,24,0.923076923,3,"Flat shape with short legs and a headboard.",1506,1506,12,378,506,6,0.75
+8,395,"bed",38472,24,0.923076923,3,"The picture is mostly flat, with small protrusions on each side like the headboard and footboard of a bed.",1506,1506,12,378,506,6,0.75
+8,395,"bed",46739,24,0.923076923,3,"Its squished and looks like a dot on a bed",1506,1506,12,378,506,6,0.75
+8,395,"bed",38468,24,0.923076923,3,"A long horizontal shape",1506,1506,12,378,506,6,0.75
+8,395,"bed",37950,24,0.923076923,3,"low and flat",1506,1506,12,378,506,6,0.75
+8,395,"bed",47016,24,0.923076923,3,"An object where people sleep on top of.",1506,1506,12,378,506,6,0.75
+8,395,"crab",38472,34,0.944444444,2,"There are two large objects sticking up from the sides, like a crab's pincers.",3849,3828,16,479,751,7,0.875
+8,395,"crab",38468,34,0.944444444,2,"A very wide X shape resembling a crab",3849,3828,16,479,751,7,0.875
+8,395,"crab",37950,34,0.944444444,2,"four distinct legs",3849,3828,16,479,751,7,0.875
+8,395,"crab",46394,34,0.944444444,2,"Silhouette of the animal of the same name with its claws raised up.",3849,3828,16,479,751,7,0.875
+8,395,"crab",47016,34,0.944444444,2,"The object look like a crab.",3849,3828,16,479,751,7,0.875
+8,395,"crab",46739,34,0.944444444,2,"The crab is an ""X"" spread out",3849,3828,16,479,751,7,0.875
+8,395,"crab",46455,34,0.944444444,2,"flattened x shape with head",3849,3828,16,479,751,7,0.875
+8,395,"topdot",37950,38,0.95,1,"head separated from the body",18744,18744,18,18,504,7,0.875
+8,395,"topdot",47016,38,0.95,1,"the ball shape object is the one stand out in the picture.",18744,18744,18,18,504,7,0.875
+8,395,"topdot",46739,38,0.95,1,"the dot is on top",18744,18744,18,18,504,7,0.875
+8,395,"topdot",38468,38,0.95,1,"A shape that has a circle hovering above it",18744,18744,18,18,504,7,0.875
+8,395,"topdot",46455,38,0.95,1,"round circle on top of other blotch",18744,18744,18,18,504,7,0.875
+8,395,"topdot",46394,38,0.95,1,"The ball or dot that is at the highest position compared to the others shown.",18744,18744,18,18,504,7,0.875
+8,395,"topdot",38472,38,0.95,1,"The circle that appears in many shapes is the highest out of the three pictures.",18744,18744,18,18,504,7,0.875
+8,396,"book",38379,50,0.892857143,3,"A collection of words bound together",6663,6663,23,17,451,8,1
+8,396,"book",42839,50,0.892857143,3,"I guess I could have said something like 'read' instead where I used 'book,' but that shape of the circle above it made it seem like reading to me.",6663,6663,23,17,451,8,1
+8,396,"book",42830,50,0.892857143,3,"A thin wide shape that looks like an open book",6663,6663,23,17,451,8,1
+8,396,"book",37986,50,0.892857143,3,"a square item with pages",6663,6663,23,17,451,8,1
+8,396,"book",46333,50,0.892857143,3,"Like someone reading",6663,6663,23,17,451,8,1
+8,396,"book",38166,50,0.892857143,3,"Like wings opened.",6663,6663,23,17,451,8,1
+8,396,"book",38006,50,0.892857143,3,"open and with a reader",6663,6663,23,17,451,8,1
+8,396,"book",46937,50,0.892857143,3,"The book shape looked like an open book with a person's head in the middle.",6663,6663,23,17,451,8,1
+8,396,"crab",38166,54,0.931034483,2,"Head and claws sticking up. Squished body.",9247,4627,27,518,891,8,1
+8,396,"crab",37986,54,0.931034483,2,"a round animal with snapper claws",9247,4627,27,518,891,8,1
+8,396,"crab",38379,54,0.931034483,2,"A hard shelled creature with a few legs",9247,4627,27,518,891,8,1
+8,396,"crab",46333,54,0.931034483,2,"Short and puffy",9247,4627,27,518,891,8,1
+8,396,"crab",38006,54,0.931034483,2,"a crustacean with claws",9247,4627,27,518,891,8,1
+8,396,"crab",42830,54,0.931034483,2,"A wide shape that looks like a crab",9247,4627,27,518,891,8,1
+8,396,"crab",46937,54,0.931034483,2,"The crab shape was short and squat and looked like it had two pincers.",9247,4627,27,518,891,8,1
+8,396,"crab",42839,54,0.931034483,2,"A crab is a crustacean and it usually holds up its claws.  That was something of a motivator in my mentioning it.",9247,4627,27,518,891,8,1
+8,396,"frog",37986,58,0.966666667,1,"a four legged animal with a long arms and legs",5266,2518,29,570,857,8,1
+8,396,"frog",46333,58,0.966666667,1,"Wide stance",5266,2518,29,570,857,8,1
+8,396,"frog",42839,58,0.966666667,1,"A frog is an amphibian and I tend to imagine one leaping, so it's got two legs in front and two bigger ones in the back/bottom.",5266,2518,29,570,857,8,1
+8,396,"frog",38006,58,0.966666667,1,"a little amphibian",5266,2518,29,570,857,8,1
+8,396,"frog",46937,58,0.966666667,1,"The frog shape was in somewhat of an X shape with it appendages and looked like it had a head.",5266,2518,29,570,857,8,1
+8,396,"frog",38379,58,0.966666667,1,"a small, squat green amphibian",5266,2518,29,570,857,8,1
+8,396,"frog",38166,58,0.966666667,1,"Stout, head and legs sticking out and up, big feet sticking out and down.",5266,2518,29,570,857,8,1
+8,396,"frog",42830,58,0.966666667,1,"A shape that resembles a frog",5266,2518,29,570,857,8,1
+8,397,"flat",38337,46,0.92,3,"It's flat...",5633,5633,22,189,520,8,1
+8,397,"flat",42828,46,0.92,3,"Straight",5633,5633,22,189,520,8,1
+8,397,"flat",42809,46,0.92,3,"The shape that is flatter than the other two.",5633,5633,22,189,520,8,1
+8,397,"flat",38038,46,0.92,3,"close to a line",5633,5633,22,189,520,8,1
+8,397,"flat",46216,46,0.92,3,"not raised",5633,5633,22,189,520,8,1
+8,397,"flat",38106,46,0.92,3,"something low to the ground",5633,5633,22,189,520,8,1
+8,397,"flat",38046,46,0.92,3,"an object that doesnt have a lot of height",5633,5633,22,189,520,8,1
+8,397,"flat",46892,46,0.92,3,"Resembling a straight line.",5633,5633,22,189,520,8,1
+8,397,"frog",38106,50,0.925925926,2,"the animal",9089,2292,24,627,938,8,1
+8,397,"frog",38038,50,0.925925926,2,"square body",9089,2292,24,627,938,8,1
+8,397,"frog",38337,50,0.925925926,2,"It looks like a frog.",9089,2292,24,627,938,8,1
+8,397,"frog",46216,50,0.925925926,2,"an amphibian with 4 legs",9089,2292,24,627,938,8,1
+8,397,"frog",38046,50,0.925925926,2,"two legs and a head, legs to side",9089,2292,24,627,938,8,1
+8,397,"frog",42809,50,0.925925926,2,"It looks like a Frog",9089,2292,24,627,938,8,1
+8,397,"frog",46892,50,0.925925926,2,"An amphibious animal that lives in the water.",9089,2292,24,627,938,8,1
+8,397,"frog",42828,50,0.925925926,2,"A amphibian",9089,2292,24,627,938,8,1
+8,397,"squat",38038,56,0.903225806,1,"image bending at the ""knees""",15013,15013,28,228,738,8,1
+8,397,"squat",46216,56,0.903225806,1,"bending your knees and lowering toward the ground",15013,15013,28,228,738,8,1
+8,397,"squat",42828,56,0.903225806,1,"A workout move bending of the legs",15013,15013,28,228,738,8,1
+8,397,"squat",38046,56,0.903225806,1,"a person leaning down with legs spread",15013,15013,28,228,738,8,1
+8,397,"squat",46892,56,0.903225806,1,"To crouch down low.",15013,15013,28,228,738,8,1
+8,397,"squat",38337,56,0.903225806,1,"Something squatting down.",15013,15013,28,228,738,8,1
+8,397,"squat",38106,56,0.903225806,1,"person squatting low, or short and squatty",15013,15013,28,228,738,8,1
+8,397,"squat",42809,56,0.903225806,1,"Four points, wide shape.",15013,15013,28,228,738,8,1
+8,398,"bunny",14283,34,0.944444444,3,"2 distinguished ears",16684,16684,17,817,1399,7,0.875
+8,398,"bunny",14225,34,0.944444444,3,"small animals with large ears relative to its size.",16684,16684,17,817,1399,7,0.875
+8,398,"bunny",14148,34,0.944444444,3,"long ears",16684,16684,17,817,1399,7,0.875
+8,398,"bunny",14789,34,0.944444444,3,"fluffy small animal with large long ears",16684,16684,17,817,1399,7,0.875
+8,398,"bunny",13935,34,0.944444444,3,"Splits",16684,16684,17,817,1399,7,0.875
+8,398,"bunny",13485,34,0.944444444,3,"two big floppy ears",16684,16684,17,817,1399,7,0.875
+8,398,"bunny",15318,34,0.944444444,3,"had two tall ear shapes",16684,16684,17,817,1399,7,0.875
+8,398,"crab",13485,42,0.875,1,"a bottom feeder hard shelled creature",2648,2648,21,493,697,7,0.875
+8,398,"crab",15318,42,0.875,1,"squat little blob",2648,2648,21,493,697,7,0.875
+8,398,"crab",14789,42,0.875,1,"animal with claws that extend upward",2648,2648,21,493,697,7,0.875
+8,398,"crab",13935,42,0.875,1,"Cheer",2648,2648,21,493,697,7,0.875
+8,398,"crab",14283,42,0.875,1,"4 legs with a central body",2648,2648,21,493,697,7,0.875
+8,398,"crab",14225,42,0.875,1,"It looks like a short, wide animal with ""arms"" open.",2648,2648,21,493,697,7,0.875
+8,398,"crab",14148,42,0.875,1,"flat crustacean with elongated limbs",2648,2648,21,493,697,7,0.875
+8,398,"frog",14148,40,0.909090909,2,"rounded shape almost oval or round with elongated limbs",4824,1526,20,622,844,7,0.875
+8,398,"frog",13935,40,0.909090909,2,"Squatting",4824,1526,20,622,844,7,0.875
+8,398,"frog",13485,40,0.909090909,2,"a jumping green thing",4824,1526,20,622,844,7,0.875
+8,398,"frog",14225,40,0.909090909,2,"small animal with long limbs relative to its size.",4824,1526,20,622,844,7,0.875
+8,398,"frog",15318,40,0.909090909,2,"wasnt sure on this one",4824,1526,20,622,844,7,0.875
+8,398,"frog",14789,40,0.909090909,2,"animal with long back legs and shorter front legs",4824,1526,20,622,844,7,0.875
+8,398,"frog",14283,40,0.909090909,2,"4 legs with a central body",4824,1526,20,622,844,7,0.875
+8,399,"a",14214,28,0.777777778,2,"A letter and first letter in  the alphabet.",2320,2320,12,1175,1351,7,0.875
+8,399,"a",13750,28,0.777777778,2,"A letter or a shape.",2320,2320,12,1175,1351,7,0.875
+8,399,"a",13474,28,0.777777778,2,"The first letter of the alphabet",2320,2320,12,1175,1351,7,0.875
+8,399,"a",14775,28,0.777777778,2,"letter",2320,2320,12,1175,1351,7,0.875
+8,399,"a",15680,28,0.777777778,2,"It’s a letter",2320,2320,12,1175,1351,7,0.875
+8,399,"a",14952,28,0.777777778,2,"If it looks like the letter A",2320,2320,12,1175,1351,7,0.875
+8,399,"a",14834,28,0.777777778,2,"looked like an A",2320,2320,12,1175,1351,7,0.875
+8,399,"crab",13474,56,0.848484848,1,"A crustacean from the sea who crawls",1298,1298,26,518,634,7,0.875
+8,399,"crab",15680,56,0.848484848,1,"Short, wide hands up",1298,1298,26,518,634,7,0.875
+8,399,"crab",14952,56,0.848484848,1,"Crab has claw-like bottom with arms going inward.",1298,1298,26,518,634,7,0.875
+8,399,"crab",13750,56,0.848484848,1,"A land crab, a terrestrial crab.",1298,1298,26,518,634,7,0.875
+8,399,"crab",14834,56,0.848484848,1,"lots of different angles",1298,1298,26,518,634,7,0.875
+8,399,"crab",14775,56,0.848484848,1,"good to eat",1298,1298,26,518,634,7,0.875
+8,399,"crab",14214,56,0.848484848,1,"An animal that lives on a beach and on land. Has a hard shell and can be considered seafood.",1298,1298,26,518,634,7,0.875
+8,399,"down",14834,24,0.857142857,3,"ball was down",2454,2454,12,1351,1499,5,0.625
+8,399,"down",14775,24,0.857142857,3,"direction",2454,2454,12,1351,1499,5,0.625
+8,399,"down",14214,24,0.857142857,3,"A direction pointing to the ground.",2454,2454,12,1351,1499,5,0.625
+8,399,"down",14952,24,0.857142857,3,"the ball is located at the bottom",2454,2454,12,1351,1499,5,0.625
+8,399,"down",13750,24,0.857142857,3,"An arrow that points downwards.",2454,2454,12,1351,1499,5,0.625
+8,399,"down",13474,24,0.857142857,3,"Going under or towards the floor or bottom",2454,2454,12,1351,1499,5,0.625
+8,399,"down",15680,24,0.857142857,3,"The opposite of up",2454,2454,12,1351,1499,5,0.625
+8,425,"crab",14352,40,0.952380952,2,"A species from Earth",7615,7419,20,428,757,8,1
+8,425,"crab",13765,40,0.952380952,2,"It looked the same as the frog (to me), maybe more pointed at the ends.",7615,7419,20,428,757,8,1
+8,425,"crab",14523,40,0.952380952,2,"Low and spread out with pincers",7615,7419,20,428,757,8,1
+8,425,"crab",15637,40,0.952380952,2,"Similar to the frog shape, but lower to the ground and more compact.",7615,7419,20,428,757,8,1
+8,425,"crab",13932,40,0.952380952,2,"The same as frog - squat position",7615,7419,20,428,757,8,1
+8,425,"crab",14902,40,0.952380952,2,"cross legged arm lifted up person",7615,7419,20,428,757,8,1
+8,425,"crab",15750,40,0.952380952,2,"It had a head, large arms up like pincers, and thick crab legs.",7615,7419,20,428,757,8,1
+8,425,"crab",15229,40,0.952380952,2,"Four legged walking flat",7615,7419,20,428,757,8,1
+8,425,"frog",13765,50,0.925925926,1,"The fat x with rounded ends",3156,2668,23,571,772,8,1
+8,425,"frog",15637,50,0.925925926,1,"The shape that looked like a frog in mid-jump.",3156,2668,23,571,772,8,1
+8,425,"frog",15229,50,0.925925926,1,"Four legged jumping animal",3156,2668,23,571,772,8,1
+8,425,"frog",13932,50,0.925925926,1,"A defined head in a squat position",3156,2668,23,571,772,8,1
+8,425,"frog",15750,50,0.925925926,1,"it was a wide ""x"" shape that resembled a jumping frog.",3156,2668,23,571,772,8,1
+8,425,"frog",14523,50,0.925925926,1,"Short and long with a head",3156,2668,23,571,772,8,1
+8,425,"frog",14352,50,0.925925926,1,"A species from Earth",3156,2668,23,571,772,8,1
+8,425,"frog",14902,50,0.925925926,1,"cross legged arm stretched out person",3156,2668,23,571,772,8,1
+8,425,"sword",14523,30,1,3,"Single shape upright and together",1488,1488,14,991,1142,6,0.75
+8,425,"sword",15229,30,1,3,"Vertical shape",1488,1488,14,991,1142,6,0.75
+8,425,"sword",14902,30,1,3,"Swerving connected lines",1488,1488,14,991,1142,6,0.75
+8,425,"sword",13765,30,1,3,"I didn't see that word used at all, I think people were using whale or vagina for that one.  Kind of a straight blob.",1488,1488,14,991,1142,6,0.75
+8,425,"sword",15637,30,1,3,"A thin skinny item that comes to a point. Whoever kept using ""sword"" as a descriptor was a buffoon. None of them even remotely resembled a sword.",1488,1488,14,991,1142,6,0.75
+8,425,"sword",14352,30,1,3,"Weapon",1488,1488,14,991,1142,6,0.75
+8,425,"sword",13932,30,1,3,"A thinner line with a handle",1488,1488,14,991,1142,6,0.75
+8,425,"sword",15750,30,1,3,"very tall and slender shape",1488,1488,14,991,1142,6,0.75
+8,426,"bowtie",14395,54,0.964285714,3,"A small piece of clothing worn with men suits in the olden days and are now worn today demonstrate to young youth and teenagers how to dress appropriately on holidays, weddings, family portraits and on dates.",1875,1875,25,231,423,8,1
+8,426,"bowtie",15504,54,0.964285714,3,"round head with bowtie shape underneath",1875,1875,25,231,423,8,1
+8,426,"bowtie",15457,54,0.964285714,3,"It was a shape of a bowtie with a ball on top",1875,1875,25,231,423,8,1
+8,426,"bowtie",13867,54,0.964285714,3,"a small formal tie, that ties in the front and displays horizontally",1875,1875,25,231,423,8,1
+8,426,"bowtie",15540,54,0.964285714,3,"joker",1875,1875,25,231,423,8,1
+8,426,"bowtie",14076,54,0.964285714,3,"A wide ribbon tied in the middle.",1875,1875,25,231,423,8,1
+8,426,"bowtie",14053,54,0.964285714,3,"A tie for special occasions",1875,1875,25,231,423,8,1
+8,426,"bowtie",15769,54,0.964285714,3,"outer edges were larger than the middle and it was symmetrical",1875,1875,25,231,423,8,1
+8,426,"frog",13867,78,0.951219512,1,"a small amphibious thing, that can hop and live around and in small bodies of water",5251,1531,39,595,888,8,1
+8,426,"frog",15540,78,0.951219512,1,"squat",5251,1531,39,595,888,8,1
+8,426,"frog",15504,78,0.951219512,1,"A wide center, four appendages, squat head",5251,1531,39,595,888,8,1
+8,426,"frog",14053,78,0.951219512,1,"An animal that lives in or out of water",5251,1531,39,595,888,8,1
+8,426,"frog",15769,78,0.951219512,1,"bullfrog, legs and arms wide open",5251,1531,39,595,888,8,1
+8,426,"frog",14395,78,0.951219512,1,"A green insect with two big round eyes, long tongue that flaps out frequently and a frog makes a weird sound and eats flies.",5251,1531,39,595,888,8,1
+8,426,"frog",14076,78,0.951219512,1,"An X like shape that has strong bends.",5251,1531,39,595,888,8,1
+8,426,"frog",15457,78,0.951219512,1,"It was a shaped that looked like an X with a head",5251,1531,39,595,888,8,1
+8,426,"kissin",14076,64,0.888888889,2,"Two standing people face to face, very close.",8498,8498,31,986,1408,8,1
+8,426,"kissin",13867,64,0.888888889,2,"2 people face to face, with locked lips, expressing affection",8498,8498,31,986,1408,8,1
+8,426,"kissin",14395,64,0.888888889,2,"The kissin shape was two shapes that appeared with tall flappy sides that stuck out on each side with a narrow long strip down the middle.",8498,8498,31,986,1408,8,1
+8,426,"kissin",15540,64,0.888888889,2,"close",8498,8498,31,986,1408,8,1
+8,426,"kissin",14053,64,0.888888889,2,"Intimacy",8498,8498,31,986,1408,8,1
+8,426,"kissin",15457,64,0.888888889,2,"It looked like two people embracing each other with their faces together",8498,8498,31,986,1408,8,1
+8,426,"kissin",15769,64,0.888888889,2,"two people locked in a kiss",8498,8498,31,986,1408,8,1
+8,426,"kissin",15504,64,0.888888889,2,"Two tall shapes leaning toward each other, tops touching",8498,8498,31,986,1408,8,1
+8,427,"book",15319,36,1,3,"open pages split in the middle",1709,1709,16,253,404,7,0.875
+8,427,"book",15252,36,1,3,"an open book with a head above",1709,1709,16,253,404,7,0.875
+8,427,"book",15243,36,1,3,"A book is something that you read and tells you a story.",1709,1709,16,253,404,7,0.875
+8,427,"book",15601,36,1,3,"A stack of papers bound together that tells a story.",1709,1709,16,253,404,7,0.875
+8,427,"book",15135,36,1,3,"A book is a collection of pages bound together in one volume.",1709,1709,16,253,404,7,0.875
+8,427,"book",14871,36,1,3,"a thing with a cover and pages",1709,1709,16,253,404,7,0.875
+8,427,"book",15808,36,1,3,"a means to educate and entertain",1709,1709,16,253,404,7,0.875
+8,427,"crab",14871,46,0.884615385,1,"a shelled creature that moves sideways",5202,3932,22,505,778,7,0.875
+8,427,"crab",15808,46,0.884615385,1,"a crustacean that is in the ocean",5202,3932,22,505,778,7,0.875
+8,427,"crab",15601,46,0.884615385,1,"A sea creature with short legs and pincers.",5202,3932,22,505,778,7,0.875
+8,427,"crab",15135,46,0.884615385,1,"An eight legged animal with a shell that is often found by the ocean.",5202,3932,22,505,778,7,0.875
+8,427,"crab",15319,46,0.884615385,1,"short with wide arms.",5202,3932,22,505,778,7,0.875
+8,427,"crab",15252,46,0.884615385,1,"Claws raised in the air, legs spread out on either side",5202,3932,22,505,778,7,0.875
+8,427,"crab",15243,46,0.884615385,1,"crab is a type of sea animal or fish.",5202,3932,22,505,778,7,0.875
+8,427,"fish",15243,38,0.904761905,2,"A fish is something that swims around in the water and that some people like to catch them with a rod and then eat them.",2444,2444,18,1021,1203,8,1
+8,427,"fish",15135,38,0.904761905,2,"A fish is a scaley animal with gills that lives in the water.",2444,2444,18,1021,1203,8,1
+8,427,"fish",14871,38,0.904761905,2,"a creature that lives in water and swims",2444,2444,18,1021,1203,8,1
+8,427,"fish",15252,38,0.904761905,2,"Long with fins on the side and at one end",2444,2444,18,1021,1203,8,1
+8,427,"fish",15808,38,0.904761905,2,"an animal that swims and can be in the ocean or in a lake or pond",2444,2444,18,1021,1203,8,1
+8,427,"fish",15601,38,0.904761905,2,"A long shaped animal with fins that swims.",2444,2444,18,1021,1203,8,1
+8,427,"fish",15319,38,0.904761905,2,"fish body with fin",2444,2444,18,1021,1203,8,1
+8,428,"crab",13881,72,0.818181818,1,"flat with legs",7143,5570,35,470,783,8,1
+8,428,"crab",15785,72,0.818181818,1,"wide body round head 2 arms",7143,5570,35,470,783,8,1
+8,428,"crab",15606,72,0.818181818,1,"A crustacean with claws",7143,5570,35,470,783,8,1
+8,428,"crab",14448,72,0.818181818,1,"A crab has claws and legs above and beneath it",7143,5570,35,470,783,8,1
+8,428,"crab",15875,72,0.818181818,1,"Kind of a rectangle figure with pointed in arms and legs",7143,5570,35,470,783,8,1
+8,428,"crab",15468,72,0.818181818,1,"an object with legs at the bottom and two petruding eyes on the top",7143,5570,35,470,783,8,1
+8,428,"crab",14906,72,0.818181818,1,"an ocean creature with wide legs and claws who is low to the ground.",7143,5570,35,470,783,8,1
+8,428,"crab",15579,72,0.818181818,1,"As something crab-legged.",7143,5570,35,470,783,8,1
+8,428,"frog",14906,52,1,2,"An amphibian with 4 legs",3171,1036,24,634,828,8,1
+8,428,"frog",13881,52,1,2,"fat and the legs are spreading",3171,1036,24,634,828,8,1
+8,428,"frog",15468,52,1,2,"two long legs and arms and a head",3171,1036,24,634,828,8,1
+8,428,"frog",15785,52,1,2,"large body 4 limbs sicking out",3171,1036,24,634,828,8,1
+8,428,"frog",14448,52,1,2,"Frogs are able to swim and stay on land; have skinny legs and large bodies",3171,1036,24,634,828,8,1
+8,428,"frog",15579,52,1,2,"Something shaped like a frog.",3171,1036,24,634,828,8,1
+8,428,"frog",15875,52,1,2,"an amphibian",3171,1036,24,634,828,8,1
+8,428,"frog",15606,52,1,2,"An amphibian that croaks",3171,1036,24,634,828,8,1
+8,428,"rabbit",15468,40,0.689655172,3,"long ears",27747,27747,20,897,1348,8,1
+8,428,"rabbit",15606,40,0.689655172,3,"a small mammal with big ears",27747,27747,20,897,1348,8,1
+8,428,"rabbit",15579,40,0.689655172,3,"Something shaped like a rabbit.",27747,27747,20,897,1348,8,1
+8,428,"rabbit",13881,40,0.689655172,3,"long ears and thin",27747,27747,20,897,1348,8,1
+8,428,"rabbit",15785,40,0.689655172,3,"2 large ears on side of a head",27747,27747,20,897,1348,8,1
+8,428,"rabbit",14906,40,0.689655172,3,"A furry mammal with long ears",27747,27747,20,897,1348,8,1
+8,428,"rabbit",14448,40,0.689655172,3,"Rabbits are fluffy with big paws and fluffy ears",27747,27747,20,897,1348,8,1
+8,428,"rabbit",15875,40,0.689655172,3,"big floppy ears",27747,27747,20,897,1348,8,1
+8,429,"couch",13573,54,0.9,1,"something people sit on",2094,2094,24,374,551,7,0.875
+8,429,"couch",15129,54,0.9,1,"Wide",2094,2094,24,374,551,7,0.875
+8,429,"couch",14880,54,0.9,1,"a wide, short piece of furniture",2094,2094,24,374,551,7,0.875
+8,429,"couch",13688,54,0.9,1,"A wide but narrow object",2094,2094,24,374,551,7,0.875
+8,429,"couch",14549,54,0.9,1,"wide seating furniture with cushions",2094,2094,24,374,551,7,0.875
+8,429,"couch",14204,54,0.9,1,"A long seat with arms",2094,2094,24,374,551,7,0.875
+8,429,"couch",14115,54,0.9,1,"a couch is a longer section of space where people sit",2094,2094,24,374,551,7,0.875
+8,429,"crab",14115,52,0.962962963,2,"a crab is a many legged creature that lives in the ocean",6539,6539,22,197,651,8,1
+8,429,"crab",13688,52,0.962962963,2,"Big pinchers",6539,6539,22,197,651,8,1
+8,429,"crab",13573,52,0.962962963,2,"a hard shell sea animal",6539,6539,22,197,651,8,1
+8,429,"crab",14204,52,0.962962963,2,"A creature with large front arms",6539,6539,22,197,651,8,1
+8,429,"crab",15129,52,0.962962963,2,"Crab looking project",6539,6539,22,197,651,8,1
+8,429,"crab",14880,52,0.962962963,2,"an animal that crawls and has claws",6539,6539,22,197,651,8,1
+8,429,"crab",14549,52,0.962962963,2,"short and wide creature with claws",6539,6539,22,197,651,8,1
+8,429,"frog",14549,50,0.806451613,3,"kneeling creature with long front legs",4203,1203,24,632,858,6,0.75
+8,429,"frog",14204,50,0.806451613,3,"an amphibian",4203,1203,24,632,858,6,0.75
+8,429,"frog",14115,50,0.806451613,3,"a frog is a, usually greenish, amphibian",4203,1203,24,632,858,6,0.75
+8,429,"frog",14880,50,0.806451613,3,"an animal that hops",4203,1203,24,632,858,6,0.75
+8,429,"frog",13688,50,0.806451613,3,"An amphibian",4203,1203,24,632,858,6,0.75
+8,429,"frog",13573,50,0.806451613,3,"a reptile",4203,1203,24,632,858,6,0.75
+8,429,"frog",15129,50,0.806451613,3,"Frog looking object",4203,1203,24,632,858,6,0.75
+8,430,"book",14696,34,1,3,"Written sheets",3460,3460,17,223,430,7,0.875
+8,430,"book",15445,34,1,3,"pages bound by a cover",3460,3460,17,223,430,7,0.875
+8,430,"book",14718,34,1,3,"two covers with pages in between",3460,3460,17,223,430,7,0.875
+8,430,"book",13802,34,1,3,"a flat book that's open",3460,3460,17,223,430,7,0.875
+8,430,"book",15469,34,1,3,"A collection of pages that tell a story",3460,3460,17,223,430,7,0.875
+8,430,"book",14495,34,1,3,"Slight curve at the base",3460,3460,17,223,430,7,0.875
+8,430,"book",14180,34,1,3,"a story",3460,3460,17,223,430,7,0.875
+8,430,"book",15477,34,1,3,"A rectangle that opens.",3460,3460,17,223,430,7,0.875
+8,430,"crab",14495,44,0.916666667,2,"Wide body shoet legs",1290,1290,22,467,616,8,1
+8,430,"crab",13802,44,0.916666667,2,"the widest one with two hands wide apart",1290,1290,22,467,616,8,1
+8,430,"crab",14696,44,0.916666667,2,"Animal with pincers",1290,1290,22,467,616,8,1
+8,430,"crab",15469,44,0.916666667,2,"An aquatic animal with a hard shell",1290,1290,22,467,616,8,1
+8,430,"crab",14180,44,0.916666667,2,"crawling",1290,1290,22,467,616,8,1
+8,430,"crab",14718,44,0.916666667,2,"two claws, head and scuttles on the ground",1290,1290,22,467,616,8,1
+8,430,"crab",15477,44,0.916666667,2,"Claws are more pointed.  Back legs look ready to scuttle.",1290,1290,22,467,616,8,1
+8,430,"crab",15445,44,0.916666667,2,"crustacean, edible",1290,1290,22,467,616,8,1
+8,430,"frog",13802,58,0.878787879,1,"the one in about to jump",3027,1086,28,625,833,8,1
+8,430,"frog",15469,58,0.878787879,1,"An amphibian that hops and eats flies",3027,1086,28,625,833,8,1
+8,430,"frog",15445,58,0.878787879,1,"amphibian",3027,1086,28,625,833,8,1
+8,430,"frog",14180,58,0.878787879,1,"slimey",3027,1086,28,625,833,8,1
+8,430,"frog",15477,58,0.878787879,1,"Rounded front ""paws"" and it looks like it's ready to jump.",3027,1086,28,625,833,8,1
+8,430,"frog",14696,58,0.878787879,1,"Flexible amphibian",3027,1086,28,625,833,8,1
+8,430,"frog",14495,58,0.878787879,1,"Long arms short legs",3027,1086,28,625,833,8,1
+8,430,"frog",14718,58,0.878787879,1,"four legs, short body, squat frame",3027,1086,28,625,833,8,1
+8,431,"crab",14802,50,0.961538462,3,"legs",760,760,22,497,608,8,1
+8,431,"crab",13806,50,0.961538462,3,"Crustacean with claws",760,760,22,497,608,8,1
+8,431,"crab",15094,50,0.961538462,3,"skinny narrow body",760,760,22,497,608,8,1
+8,431,"crab",14963,50,0.961538462,3,"An animal with a wide body. A head with two antennas coming out a two wide legs at the base.",760,760,22,497,608,8,1
+8,431,"crab",15250,50,0.961538462,2,"crab claws out",760,760,22,497,608,8,1
+8,431,"crab",14218,50,0.961538462,3,"some people said it was also called pray it kinda looked like two hands faces or kissing",760,760,22,497,608,8,1
+8,431,"crab",14075,50,0.961538462,3,"a body with short legs outstretched",760,760,22,497,608,8,1
+8,431,"crab",15888,50,0.961538462,3,"four legs in a squatting position",760,760,22,497,608,8,1
+8,431,"frog",13806,88,1,1,"Amphibian",3949,1835,42,539,850,8,1
+8,431,"frog",15250,88,1,1,"jumping frog",3949,1835,42,539,850,8,1
+8,431,"frog",15094,88,1,1,"two front legs and two hind legs",3949,1835,42,539,850,8,1
+8,431,"frog",14075,88,1,1,"a body with legs outstretched",3949,1835,42,539,850,8,1
+8,431,"frog",15888,88,1,1,"4 legs spread apart, small head",3949,1835,42,539,850,8,1
+8,431,"frog",14802,88,1,1,"small",3949,1835,42,539,850,8,1
+8,431,"frog",14218,88,1,1,"the one on the bottom sticking up",3949,1835,42,539,850,8,1
+8,431,"frog",14963,88,1,1,"an animal that has a big center body with four legs. Two in the front and two in the back. The animal is spread wide.",3949,1835,42,539,850,8,1
+8,431,"vase",14218,50,0.961538462,2,"same as frog basically",8981,8981,22,976,1292,8,1
+8,431,"vase",13806,50,0.961538462,2,"Receptacle for holding flowers",8981,8981,22,976,1292,8,1
+8,431,"vase",14802,50,0.961538462,2,"straight",8981,8981,22,976,1292,8,1
+8,431,"vase",14075,50,0.961538462,2,"curvy stand with decorations",8981,8981,22,976,1292,8,1
+8,431,"vase",14963,50,0.961538462,2,"A tall skinny object.",8981,8981,22,976,1292,8,1
+8,431,"vase",15888,50,0.961538462,2,"tall object",8981,8981,22,976,1292,8,1
+8,431,"vase",15094,50,0.961538462,2,"two graspers and two legs with body",8981,8981,22,976,1292,8,1
+8,431,"vase",15250,50,0.961538462,3,"tall penguin",8981,8981,22,976,1292,8,1
+8,432,"ball",14231,36,0.947368421,3,"a circular bouncy toy",431587,13320,18,32,1499,8,1
+8,432,"ball",14717,36,0.947368421,3,"a circle, raised above or below the rest",431587,13320,18,32,1499,8,1
+8,432,"ball",14357,36,0.947368421,3,"A ball on the bottom.",431587,13320,18,32,1499,8,1
+8,432,"ball",13451,36,0.947368421,3,"a round bouncy circle",431587,13320,18,32,1499,8,1
+8,432,"ball",14732,36,0.947368421,3,"A small circular object.",431587,13320,18,32,1499,8,1
+8,432,"ball",14222,36,0.947368421,3,"something round",431587,13320,18,32,1499,8,1
+8,432,"ball",13928,36,0.947368421,3,"a circle",431587,13320,18,32,1499,8,1
+8,432,"ball",15435,36,0.947368421,3,"X shape with spare ball",431587,13320,18,32,1499,8,1
+8,432,"crab",13451,74,0.948717949,1,"an animal with pincers and 6 legs",14408,12625,36,64,805,8,1
+8,432,"crab",14732,74,0.948717949,1,"A wide figure crouching down with two arms pinched and two legs.",14408,12625,36,64,805,8,1
+8,432,"crab",14717,74,0.948717949,1,"short legs, a head, and arms up",14408,12625,36,64,805,8,1
+8,432,"crab",13928,74,0.948717949,1,"a short fat letter x with a thick middle",14408,12625,36,64,805,8,1
+8,432,"crab",15435,74,0.948717949,1,"X shape with rounded hands",14408,12625,36,64,805,8,1
+8,432,"crab",14231,74,0.948717949,1,"a tasty mollusk",14408,12625,36,64,805,8,1
+8,432,"crab",14222,74,0.948717949,1,"bending down with legs out",14408,12625,36,64,805,8,1
+8,432,"crab",14357,74,0.948717949,1,"Wide, short stance and arms and legs.",14408,12625,36,64,805,8,1
+8,432,"kiss",14222,38,0.791666667,2,"to people touching lips",11246,11246,19,963,1404,7,0.875
+8,432,"kiss",13451,38,0.791666667,2,"to touch mouth together",11246,11246,19,963,1404,7,0.875
+8,432,"kiss",14231,38,0.791666667,2,"a lip hug",11246,11246,19,963,1404,7,0.875
+8,432,"kiss",14732,38,0.791666667,2,"Moving your mouth to create a smooch.",11246,11246,19,963,1404,7,0.875
+8,432,"kiss",13928,38,0.791666667,2,"to pucker up your lips",11246,11246,19,963,1404,7,0.875
+8,432,"kiss",14357,38,0.791666667,2,"I couldn't recognize this shape.",11246,11246,19,963,1404,7,0.875
+8,432,"kiss",15435,38,0.791666667,2,"Tall bodies linked via face",11246,11246,19,963,1404,7,0.875
+8,432,"kiss",14717,38,0.791666667,2,"two leaning in, heads touching",11246,11246,19,963,1404,7,0.875
+8,433,"crab",13689,50,0.833333333,1,"widex",2492,2492,25,479,697,8,1
+8,433,"crab",15505,50,0.833333333,1,"a crustacean",2492,2492,25,479,697,8,1
+8,433,"crab",15331,50,0.833333333,1,"A low to the ground shell fish with multiple arms or legs",2492,2492,25,479,697,8,1
+8,433,"crab",13758,50,0.833333333,1,"An x looking, crouching shape",2492,2492,25,479,697,8,1
+8,433,"crab",14804,50,0.833333333,1,"A beach animal.",2492,2492,25,479,697,8,1
+8,433,"crab",14444,50,0.833333333,1,"It looked like a crab",2492,2492,25,479,697,8,1
+8,433,"crab",14314,50,0.833333333,1,"look like a crab with front face crawling",2492,2492,25,479,697,8,1
+8,433,"flat",14314,44,0.88,2,"flatline",4211,4211,20,226,526,7,0.875
+8,433,"flat",13758,44,0.88,2,"A line, like shape",4211,4211,20,226,526,7,0.875
+8,433,"flat",13689,44,0.88,2,"line",4211,4211,20,226,526,7,0.875
+8,433,"flat",14444,44,0.88,2,"It was the shortest one.",4211,4211,20,226,526,7,0.875
+8,433,"flat",15505,44,0.88,2,"smooth, straight",4211,4211,20,226,526,7,0.875
+8,433,"flat",15331,44,0.88,2,"level and horizontal",4211,4211,20,226,526,7,0.875
+8,433,"flat",14804,44,0.88,2,"A line.",4211,4211,20,226,526,7,0.875
+8,433,"frog",14804,24,0.8,3,"A green animal that has long legs and jumps.",4278,1544,11,629,854,5,0.625
+8,433,"frog",14444,24,0.8,3,"It looked like a frog",4278,1544,11,629,854,5,0.625
+8,433,"frog",14314,24,0.8,3,"jumping frog shape",4278,1544,11,629,854,5,0.625
+8,433,"frog",15331,24,0.8,3,"a hopping amphibian with long back legs",4278,1544,11,629,854,5,0.625
+8,433,"frog",13758,24,0.8,3,"An x like looking shape",4278,1544,11,629,854,5,0.625
+8,433,"frog",13689,24,0.8,3,"leap",4278,1544,11,629,854,5,0.625
+8,433,"frog",15505,24,0.8,3,"amphibian",4278,1544,11,629,854,5,0.625
